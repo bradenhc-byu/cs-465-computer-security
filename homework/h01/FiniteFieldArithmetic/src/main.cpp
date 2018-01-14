@@ -1,7 +1,6 @@
 /**
- * Homework 2 - Finite Field Arithmetic
+ * Homework 2 - Finite Field Arithmetic (CS 465 - Computer Security)
  * @author Braden Hitchcock
- * @date 1/16/2018
  *
  * This source file contains commented pseudocode of the AES Mix Columns implementation as well as working C++ code
  * for a finite field multiplication function.
@@ -26,12 +25,12 @@
  *  }
  *
  * Pseudocode for Finite Field Multiplication function used in AES Mixed Columns Function
+ * (NOTE: this places the below implemented xtime() function within the ffmultiply function
  *
  * INPUT: two bytes a and b
  * OUTPUT: one byte representing the multiplication of a and b modulo an irreducible polynomial x^8 + x^4 + x^3 + x + 1
  *
  *  ffmultiply(a, b){
- *
  *      result =: 0
  *      count =: 0
  *      for count < 8 {
@@ -41,17 +40,13 @@
  *          Check if the high bit is set in a
  *          Shift a to the left one bit
  *          If the high bit was set {
- *              xor a with 0x1B (the lower 8 bits of the irreducible polynomial) to prevent overflow,
- *                  since the result is only 8 bits
+ *              xor a with 0x1B (the lower 8 bits of the irreducible polynomial) to prevent overflow
  *          }
  *          Shift b to the right 1
  *          count = count + 1
  *      }
  *      return result
- *
  *  }
- *
- * ---------------------------------------------------------------------------------------------------------------------
  */
 
 // Include necessary headers
@@ -61,30 +56,26 @@
 typedef unsigned char Byte;
 
 /** Finite Field Multiplication function */
+Byte xtime(Byte a){
+    return (a & 0x80) ? (Byte)((a << 1) ^ 0x1B) : (Byte)(a << 1);
+}
+
 Byte ffmultiply(Byte a, Byte b){
-    // Initialize the result
-    Byte result = 0x00;
-    // Declare variable for keeping track of whether the high bit is set or not
-    Byte highBitSet;
-    // Perform the multiplication
-    while(b){
-        if((b & 1) != 0){
-            result ^= a;
+    Byte result = 0;
+    Byte count = 0x01;
+    Byte c = a;
+    while(count){
+        if(b & count){
+            result ^= c;
         }
-        highBitSet = (Byte)(a & 0x80);
-        a <<= 1;
-        if(highBitSet != 0){
-            a ^= 0x1B;
-        }
-        b >>= 1;
+        count <<= 1;
+        c = xtime(c);
     }
     return result;
 }
 
 // Main execution
 int main() {
-    std::cout << (int)ffmultiply(0x57, 0x83) << std::endl;
+    std::cout << (int) ffmultiply(0x57, 0x83) << std::endl; // RESULT: 0xC1 (or 193)
     return 0;
 }
-
-// RESULT: 0xC1 (or 193)
