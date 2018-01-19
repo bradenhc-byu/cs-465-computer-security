@@ -6,26 +6,49 @@
 #define AESCRYPTOSYSTEM_AESKEY_H
 
 #include "AESModes.h"
+#include "AESDefinitions.h"
 
 #include <cstdlib>
+#include <iostream>
+#include <vector>
+
+typedef unsigned int Word;
 
 class AESKey {
 
 public:
     AESKey();
+    AESKey(Byte* key, AESKeyMode mode);
+    AESKey(std::string& key, AESKeyMode mode);
+    AESKey(std::vector<Byte>& key, AESKeyMode mode);
     virtual ~AESKey();
 
-    AESKey(AESMode mode);
-    AESKey(AESMode  mode, unsigned char* key);
+    void setKey(Byte* key, AESKeyMode mode);
+    void setKey(std::string& key, AESKeyMode mode);
+    void setKey(std::vector<Byte>& key, AESKeyMode mode);
 
-    void generate(AESMode mode);
-    const unsigned char& get();
-    void set(unsigned char*key);
+    Byte** nextScheme();
+    Byte** inextScheme();
+
+    const size_t& length();
+    const AESKeyMode& mode();
+
+    void resetSchedule();
 
 private:
 
-    unsigned char* _key;
-    AESMode  _mode;
+    void expand();
+    Word subWord(Word w);
+    Word rotWord(Word w);
+    void printSchedule();
+    int getSizeInBytes(AESKeyMode mode);
+    Word createWord(Byte b1, Byte b2, Byte b3, Byte b4);
+
+    AESKeyMode  _mode;
+    std::vector<Byte> _value;
+    std::vector<Word> _schedule;
+    size_t _scheduleIndex;
+    size_t _ischeduleIndex;
 
 };
 
