@@ -5,7 +5,6 @@
 #ifndef AESCRYPTOSYSTEM_AESKEY_H
 #define AESCRYPTOSYSTEM_AESKEY_H
 
-#include "AESModes.h"
 #include "AESDefinitions.h"
 
 #include <cstdlib>
