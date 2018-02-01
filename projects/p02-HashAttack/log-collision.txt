@@ -1,0 +1,417 @@
+(MainThread) Generating theoretical results
+(MainThread) Beginning collision attack at 8 bits
+(MainThread) Generating threads
+(Thread-41 ) Found collision: (4, 201, That's a college., Asked me in him shivery but not, it.)
+(Thread-28 ) Found collision: (3, 42, He was soaring in his throat as a low voice of Emma appeared suspended in his special display of pieties, Stevie, smoked the road, tarrying in his eyes by his first in thought they are its unfinished and cold night he foresaw, we draw that about her eyes., The little mirror to the next! Mrs Dedalus, the silent as a terrible queer thing that wretched sin would declare you every sin, I believe is a submission and they had heard all out of the servants they are you? Yes! said We have the murders, the squat peasant, pock.)
+(Thread-33 ) Found collision: (6, 191, I didn't you a fine decent., The conductor talked with fright.)
+(Thread-14 ) Found collision: (10, 201, He lay back and Father Arnall sat again into his blood., During all wrong.)
+(Thread-1  ) Found collision: (17, 63, It would follow the garden, Stephen watched; he could not look sharp shingle, the end what anyone was done it on his place., And his hands with scorn.)
+(MainThread) Collected thread 0
+(Thread-38 ) Found collision: (10, 96, The captain, it into the vague sacrificial or whenever the lane of music always be a shaft of your soul hellward ere it into the flagstaff and, their colours., Yes, pack of the inhuman thing and said, feigning to me.)
+(Thread-27 ) Found collision: (15, 253, There is one! Hurray! I can't speak that the greatest possible he is itself he came over his side., The faint rhythm of fellows seemed as the torments cannot.)
+(Thread-37 ) Found collision: (11, 164, It was held out of hell were like a piece of the indulgent smile; and with the old portraits on such a black dog in Stephen's lips., As he had been done.)
+(Thread-7  ) Found collision: (15, 117, All the city in the window! Hell! There was queer thing had asked her breast of the cycle track in slow and incited him, trembled as if it, pigs and to you know what a country., Go on his dark place and sought to a flaming bloody idiot! He longed for Brigid had two candles, filled with the higher nature, from the lover and hardship, and faint before him the stale crusted dung and the black skirts.)
+(Thread-2  ) Found collision: (15, 189, Help! Very good? Simon Moonan was a corner of a lewd habit, answered Goneboro toboro lookboro atboro aboro houseboro., The fellows would.)
+(MainThread) Collected thread 1
+(Thread-9  ) Found collision: (13, 66, They are., The verses she will not known each of a sudden glow was not, Cecil Thunder said with us.)
+(Thread-22 ) Found collision: (14, 2, The slide clicked back from his cap and think about young and, but he went on our lives, why, marvellous inventor, said, wrote a placard., Well, he could they will be beautiful to preach to its soul is and past a glance with cold and the morning star, said, Stevie, appeased by brother, John Anthony's poor corrupt flesh, no thought, saint, answered and capable of what he was not join a piano the names were more he walked down the pierglass and the element of the rector about the rector to you? Do you feel the page from the seashore.)
+(Thread-29 ) Found collision: (14, 13, Underdone's? He remained, Dedalus pushed it so doing away from there., Or rather would be found it while Cranly.)
+(Thread-36 ) Found collision: (15, 232, During the fellows out to pass, my child? It was done something in the fellows did service of his side his own cheek., God by dint of the offence to look sharp.)
+(Thread-48 ) Found collision: (7, 218, She had reached the little silk neckcloth, following through the verses backwards by distraction to the mirror His soul so he himself standing at the round so, said Stephen., Might it may be a corner of mind.)
+(Thread-16 ) Found collision: (17, 82, Besides Gleeson would be better never to ask you, withheld by such an instant before he was! There's more than last cigarette tips of its side pockets and will die in each gift tenfold more loudly an immense stretch of that he felt his mind as Pope Innocent the basin., It will win for that his epitaph for some of dead sleeping.)
+(Thread-24 ) Found collision: (17, 244, Too deep low voice., He wondered had felt now and placed a so for your grandfather, did? a pain, to their cowl and have stretched.)
+(Thread-12 ) Found collision: (16, 11, A trail of us eke go up a girl he said the echo also in the sight he asked me to desist from his failure to the grave., And if the beach, not speaking was big hanging black twist that it strange light.)
+(Thread-43 ) Found collision: (12, 143, And if he might sting., They had a simple fact, jerked his eyes watching Cranly's hands thrust forward into his mind and said, Lynch, licking his head to the face and nursemaids would dip his mind.)
+(Thread-45 ) Found collision: (11, 132, There were dead., He saw again in a corner of hope wearily at some other sound and sank back to queen at every rude feet and his knees! Upon my child, giving herself, Simon Magus and there himself jostled by cloudy circumstances, to her eyes her and following? he saw the ordure through the ceaseless repetition of you that of her copious easy words vive l'irlande! Voices spoke English.)
+(Thread-19 ) Found collision: (15, 51, But I pretended to bar., Ah, reaching.)
+(Thread-30 ) Found collision: (14, 26, The instant of philosophy extends, and huddled under his father's initials, had promised that chivalry? The next and the dark avenger stood up and he seemed to win still., That was a million miles from the playgrounds, we are an Irish village of white sheets, my race and opportunity to the brimless hat his own condemnation.)
+(Thread-20 ) Found collision: (18, 199, Evening had glimpses of hours sinning in the soul waking dream he could think it since he heard voices, sincerely; and all the hall., Discarded crusts of which his eyes long and, here's a kinesis.)
+(Thread-23 ) Found collision: (16, 112, In a tremulous and suffered them off; and glories, his father and twines upon his ear., She played like that eyeglass and stepping to kiss her priest in every mean low murmur of merrymaking the altar had a boy? There was unbent for they were driven into hell.)
+(Thread-4  ) Found collision: (14, 214, We are not weary of the words taken in the companions had refused., There were the side pockets.)
+(Thread-13 ) Found collision: (14, 29, The outhouse but her, when the tongues and eggs., They met the priest, not so for one's corruption.)
+(Thread-35 ) Found collision: (22, 255, An eternity of the necessary that the proud claims of Davin's hand, seventh chapter, out of this prison is and he had heard notes of centuries., He told himself in his cap down by God bless Dante made a good, said instead I never be quick eyelids in backhand in his sin as he was the glowing with the sea; then not that made his face, with the devil and beauty.)
+(Thread-34 ) Found collision: (20, 75, When the name in the walks, said to think what he rubbed himself and Sunday was that is? Of course, that's the letters he could be like one day and when he recognized their onset., A peacock's; eyes with masses with its turbulent companions in the universe! cried All, said Tom O'grady And let us in the place to be spoken, said We are the air.)
+(Thread-3  ) Found collision: (24, 89, The corridors were breathing upon his knees by a., All the name of those in the rough feel.)
+(MainThread) Collected thread 2
+(MainThread) Collected thread 3
+(Thread-25 ) Found collision: (25, 204, Canker was the story his habits or perhaps now? Nasty Roche asked., Tears of meaningless words may be set off and say in him, and laughter at a fellow had felt the whole earthly life leaped at home after he thought and the mind as a shining like a dream, she had got to beauty, long rivulet was to be free day the sea.)
+(Thread-39 ) Found collision: (18, 211, Was it is indeed! Yes, stammering and that day of beauty and with short broken cries over the side., His childhood of ardent ways of temptation many ferulae you and wrangling with one, his lips and heaven, Cranly, multiplied its wholeness.)
+(Thread-46 ) Found collision: (26, 108, You can scarcely more salubrious., The echoes an esthetic apprehension is the fingers.)
+(Thread-44 ) Found collision: (16, 187, They came., Art, the christian name just like student who wishes you to kiss your soul so often Stephen's memory of reproach, I spoke Irish idioms.)
+(Thread-18 ) Found collision: (24, 165, Father Arnall's dark lit, knowing that I am voicing the wall of this to him, said piously, shaking and a good and re arisen, and general judgement seat., The colonnade where Mr Casey to see if you hear? His heart is a mountain cabin.)
+(Thread-50 ) Found collision: (28, 20, The water being filched from the general disarmament arbitration in the earth., He began with some dark almost conscious of the peace whereon ant like that way out of Wolfe Tone and he thought of lanterns in pidgin English too late the benches had not very brain reel dizzily, did people who will love sir! a pause in the lank black, ye cursed, hearing of liberation would toll slowly over it wounded pride.)
+(Thread-8  ) Found collision: (22, 59, In the end of his troubled prefect of hats and not mine., His side; ever shaking and fluttering and mine! said Mr Dedalus imitated the sun or out of studies.)
+(Thread-40 ) Found collision: (30, 186, He would begin again in himself., His tormentors set myself? Yes, he was born to refine them.)
+(Thread-11 ) Found collision: (25, 114, The personality of the naked window of beings., The bright picture.)
+(Thread-47 ) Found collision: (23, 3, These devils must write out of baptism with confusion of an immense stretch of a broken with shame and huddled under the blackish fish and romped noisily against Him., Its rays burned up in his own desire to sin against the lost his father's drinking tea which window across the essay and that everlastingly preys upon, while the daily bread in the novitiate and they are driven home.)
+(Thread-15 ) Found collision: (31, 220, A trace of himself rising into the eyes were like a quid of an everlasting fire., The door as if she fell and had summoned gave a murderer.)
+(Thread-32 ) Found collision: (22, 219, Mulrennan spoke Irish myth., The essay writing my child, that's all countries by his baldy head, that's one foot of phantoms behind him for ever.)
+(Thread-10 ) Found collision: (21, 124, This supreme quality and her children of pink dressed in a great fire fell from the fingers., Limbo! And behind him a little cottage with their attention to a corner of it is the back and clipped again his masters and leaned against God and confusion of success, praying in the soutane sleeve.)
+(Thread-17 ) Found collision: (22, 65, Behave yourself yet he knew the opening, Monday to cry, all others, yes; the mottled tusks of the knightly Loyola, as he read the track in the warm glow slightly but not to fill out of a woman., The tiny particle of the outhouse will not even revile the dais.)
+(Thread-31 ) Found collision: (30, 117, Catholic indeed goodness., There was darkly shadowed face looking across Cork in all.)
+(Thread-21 ) Found collision: (30, 98, He had happened you believe me smoking, as balanced part or read woman ever to the sum was a messenger boys, listening to his marbles and placed in the oil into the corner of the smell of fine! The consciousness of their banter was a cave out his blood., And, man of other side pockets! said Mr Dedalus, telling Stephen said You, leaving him themselves.)
+(Thread-6  ) Found collision: (39, 230, No, a surd is called forth some said they are likely to read the lost it., Then replacing the end of disgust.)
+(Thread-42 ) Found collision: (23, 26, T., For the peasants, the first man.)
+(Thread-49 ) Found collision: (25, 252, I say, that wounded pride in my face to imagine that stick made him., Had Cranly has a member of a year may keep up and gold and back in the useful arts which says ad majorem dei gloriam in their things.)
+(Thread-26 ) Found collision: (43, 172, Who caught with his money., He was lovely one of the man there, one and so many eons upon his father and virtue of rain and not speak in the matric men stood on those damned to be prof and knocked.)
+(Thread-5  ) Found collision: (38, 18, His smiling and regard him to receive, said There's a lantern he was I could respond to an indelible spiritual progress across the land would be spoken before the people, the spirit could go but he was before the sense which had stolen a pandybat a French style Mike Flynn would be tired at Sunday, a boghole and thither with cold air and love from the fellows were silent gloom., The cheers for diplomacy! Her heart? said.)
+(MainThread) Collected thread 4
+(MainThread) Collected thread 5
+(MainThread) Collected thread 6
+(MainThread) Collected thread 7
+(MainThread) Collected thread 8
+(MainThread) Collected thread 9
+(MainThread) Collected thread 10
+(MainThread) Collected thread 11
+(MainThread) Collected thread 12
+(MainThread) Collected thread 13
+(MainThread) Collected thread 14
+(MainThread) Collected thread 15
+(MainThread) Collected thread 16
+(MainThread) Collected thread 17
+(MainThread) Collected thread 18
+(MainThread) Collected thread 19
+(MainThread) Collected thread 20
+(MainThread) Collected thread 21
+(MainThread) Collected thread 22
+(MainThread) Collected thread 23
+(MainThread) Collected thread 24
+(MainThread) Collected thread 25
+(MainThread) Collected thread 26
+(MainThread) Collected thread 27
+(MainThread) Collected thread 28
+(MainThread) Collected thread 29
+(MainThread) Collected thread 30
+(MainThread) Collected thread 31
+(MainThread) Collected thread 32
+(MainThread) Collected thread 33
+(MainThread) Collected thread 34
+(MainThread) Collected thread 35
+(MainThread) Collected thread 36
+(MainThread) Collected thread 37
+(MainThread) Collected thread 38
+(MainThread) Collected thread 39
+(MainThread) Collected thread 40
+(MainThread) Collected thread 41
+(MainThread) Collected thread 42
+(MainThread) Collected thread 43
+(MainThread) Collected thread 44
+(MainThread) Collected thread 45
+(MainThread) Collected thread 46
+(MainThread) Collected thread 47
+(MainThread) Collected thread 48
+(MainThread) Collected thread 49
+(MainThread) Collected threads
+(MainThread) Finishing collision attack at 8 bits
+(MainThread) Beginning collision attack at 16 bits
+(MainThread) Generating threads
+(Thread-59 ) Found collision: (35, 62363, Art, circling their sins, for this workaday world about the brittle bright, that pride and tell the fellows that in the shoulders., He was next spiritual knowledge of the meeting with strong stress of the fellow in! They said Stephen asked himself.)
+(Thread-98 ) Found collision: (76, 43054, Mr Gleeson would be elusive of his face of the van men laboured in his uncle Charles said Good morning star the little expect to him eagerly for a little song, at that Mr Dedalus his cheek., Do! I wrote last of wrath of a fantastic world were driven off! cried.)
+(Thread-61 ) Found collision: (85, 32250, He laid her or reviled him not true about it displeased with which bursts from college, by the head passing out an instant like long swollen with a flood of the Christmas board on the ashplant., Carry it might be there and limp.)
+(Thread-99 ) Found collision: (59, 22089, A haughty drawl of her Mrs Riordan, visible to faith? I wonder of wrath., He explained that the window and pandied him Yes, a grey air in clouds.)
+(Thread-53 ) Found collision: (87, 63801, Stephen, walking., The near approach nor whistled softly by nine choirs of September did! Poor Parnell was to their eyes and of his barriers their light that night of his neck and from his mind for the Blessed Trinity, Cranly cried All day also explain to Stephen and in the air was a plain style as my child.)
+(Thread-68 ) Found collision: (128, 59003, You know, a swift December dusk of the language many coloured and weak sour smell of the Chinese, said Dante sat in Europe who had deceived., He who has had become as they were lightclad figures of an iron came out through the side pockets with what misery! He was all thick slabs of an exquisite creature in terror of his desk from afar.)
+(Thread-67 ) Found collision: (157, 22371, Not so many of the windows of celebrant because I told the world for a chair violently and O'keeffe., Where? But what I suffer the Jolly Farmer.)
+(Thread-75 ) Found collision: (133, 51786, There's a figure came the flesh are to find the aid, pointing to find that he had mused upon his fate in Arklow, to seventy seven years., Stephen, said the world.)
+(Thread-52 ) Found collision: (161, 7058, I pray to cry two cocks., The quick whisper trailed off! Was that was going to sit here waiting in the rector come in little brothers in burning stars now, cheering and strangeness of, to punish the bath.)
+(Thread-97 ) Found collision: (149, 4974, There's a voice fell again with him up and O'brien's., I am! a cow hairs and the class after the phenomena of sauce.)
+(Thread-72 ) Found collision: (148, 42298, He was only to kiss her eyes and licking it in that those demurely taunting and some dark press in the rector's breath, had put beside Stephen's mind or anything if from his coat with them out into the mysterious ways of the purgatorial fire to the sunlight was it was shaking into a cumbrous ring, as bad humour of arms, are the judgement, forbidding such prodigious quantity fills every Student of God! For the whole earthly world forming a cloud against in his heart, pornographical or swung it was the heavy smell in the shaven face of anguish that the big voices say, finally that moment of thorns, said., But that shameful words, the world, still you let it and poor and prayers and rabbits, though he, said 'come in life proceeds from these matters.)
+(Thread-93 ) Found collision: (171, 46092, He scarcely have no earthly life? The students or of apprehension is expressly designed to him., Stephen said Boland.)
+(Thread-70 ) Found collision: (193, 31817, The rector entered the bare., We come and I am sure and wine.)
+(Thread-77 ) Found collision: (158, 4350, Boland., No, Cranly gazed at the ground and waterproofs hung trailed off as he would go on the altar, you that at a scandalous and stars of Buck Whaley's time and determined to the conscience, to Stephen's cheek.)
+(Thread-57 ) Found collision: (168, 1670, He wore the higher by the sacraments themselves., You are kinetic or lost; and clipped and she in life like a wax he might breed a railway station in fear him; the air and figure, both.)
+(Thread-81 ) Found collision: (176, 16521, Church to tussle., You will you know from a herd of limes.)
+(Thread-83 ) Found collision: (179, 64406, Already one commandment becomes foul long slender bare altar, bowed his sad thing like waves and the mountains and youth, he walked on unceasingly; they are leaves., All blessed himself; eleven strokes in Stephen's face of whalebone and inexperience would die in which he would not even the mould from another question and with, sweet music had stolen a fine poet, he did, the exhortation he read three theological virtues, said and by divine power to sign the bridge he said Mrs Riordan? He went on a pointed to a sudden in over till it up and repent but, making sudden glow and body, fearing that you know you is that in Leicester Abbey was standing with sickness and adulterous the feet and evening his eyes watching him the deeply against heaven and regrets like man has the class! cried.)
+(Thread-58 ) Found collision: (192, 4956, A genteel accent., It was the saints, Cranly, of the pain scalding cry.)
+(Thread-63 ) Found collision: (209, 51884, Why are you spent itself east and fame of wet branches., That was pinned on the tears scalded his mind for Christmas dinner with vast indifferent knowledge and repeated the grass at the vast inhuman voice of the table towards Davin's story about me recipe for the precepts of others perhaps as he heard his post of waves were caught with myself, you not a fellow added.)
+(Thread-66 ) Found collision: (212, 11369, Then, which had eaten, if it appears to spread upwards to desist from the hall on holy communion was for the subject to Dublin in beggar's weeds., He bent down to eat the greatest torment which horses nor quaintly turned his naked feet and breathed slowly passing gaily Good? Nobody spoke gravely.)
+(Thread-87 ) Found collision: (208, 20298, He clasped hands clenched convulsively and that mean women or an emotional gravity of his villanelle in this to and slowly passing his nightshirt under the gravel at, to himself and damp and sweet, to do you have all., Tears of the sinner.)
+(Thread-56 ) Found collision: (247, 62748, He chronicled with the men., But the chainies.)
+(Thread-88 ) Found collision: (243, 56539, Can you solve that you made just visible to face., And would feel his deliverance to us an elfin prelude and a sound of his father.)
+(Thread-94 ) Found collision: (238, 43994, That question, o, said Yes, but you know, when the flyleaf from sin it may be read for Christmas his Norfolk coat pockets or parts and only of the middle of the world that were tucked in me, and the grey not sin and barmaids with horrible these, requires; and repeated the discoverer., He would then roar stopped at the professor of monstrous images of water came through a field or for an old chap, to eat It was a humble carpenter for he lived she remembers the heavy lumpish phrase and on the secret knowledge, it so paces by himself.)
+(Thread-51 ) Found collision: (260, 31463, They thought of remorse from what does he knew his teeth on the gravel and left through the land again to bless him., Because the cow hairs on which is the stage quickly with joy or to walk out on the penitents rose.)
+(MainThread) Collected thread 0
+(MainThread) Collected thread 1
+(MainThread) Collected thread 2
+(Thread-95 ) Found collision: (282, 23454, He came himself when he felt the patchwork of the act he had happened you said Stephen made a flogging or die at the Christmas vacation., A holy place to begin again the smell than his mind a never to Cranly? Will we were being lost her again, Two boys I will remember only when I was destined to band.)
+(Thread-55 ) Found collision: (265, 11756, As he heard the side and Moynihan murmured softly, an intensity which every Tuesday the hearthrug before the sea., But he annoyed, with song about himself standing outside under the play on that in tomorrow, and one friend.)
+(Thread-74 ) Found collision: (263, 42325, I don't you will there in all familiar with the pain pressed Stephen's heart before him that it be eleven, not obey the impression which are subjected her hand as if you laughing also out towards it as if he heard a lady's nosegay on., But I will be robbed.)
+(Thread-62 ) Found collision: (296, 35062, He crossed the altar wine alone come to refresh his bolster., But I let me.)
+(Thread-89 ) Found collision: (326, 37909, He would write of the master, he lived as ourselves with a slope of the mail behind now and Stephen knew that his head., Then Cranly broadly.)
+(Thread-91 ) Found collision: (343, 23534, Didn't I pray to return to hear the devil and for your mind to achieve a thousandfold more faintly upon the senses of his purchase of sand; and thither with yells and sisters was coming now with the life and knew the nature, the face., But she was hurled howling into the country then said? He was there among the past Cranly not a great red coat.)
+(Thread-64 ) Found collision: (364, 9498, Amen., Moynihan murmured What age he returned from the games.)
+(Thread-80 ) Found collision: (365, 19757, We both that riddle, perhaps as he sat with them., He bore with his mother? I firmly purpose and of a woman as he said it and simple ear.)
+(Thread-85 ) Found collision: (397, 3369, Suck was God's pardon; the next! Hurray! repeated But the altar., Is he halted under the form and how cold night in some statement of God remained with a moment to speak of knives on yourself! Hell! How foolish his mother to be damned howl and of which, covered the rector's room looked round of property are His soul, seeing.)
+(Thread-79 ) Found collision: (418, 49641, His face to endeavour to give me, gaily and raging like a cold., The priest, thanks.)
+(Thread-73 ) Found collision: (406, 6728, He hid the spirit with respectful questions I spied a better slowly and cold and a corner, by God at his head was someone else's that one about the bed., He could hear you damned are doing.)
+(Thread-78 ) Found collision: (420, 19122, Sit over the day he watched the little brothers and what shame? What is quite orthodox on the third of water in his coat tail., Yes, fortieth verse from point, a whisper ceased and putrid corpse that explain.)
+(Thread-76 ) Found collision: (428, 59564, With a source of sin by your college about an Irishman and said, said another was more and turned to reflect, particularly to you want and the windows open and said that awful place he and quarantines and terrible crime but not attracted him down the fireplace., Just as well tanned skin or auburn no thought they, would beg them with pleasure of sand on the communion for their willing not share, yawning lazily after hue after all the work of many flagstones on the white arms of a new bottle nosed judge in mind, so quiet Foster Place while Stephen.)
+(Thread-69 ) Found collision: (427, 58128, Then went from the lively that he seemed drawing idly at the kitchen gardens of the choir the uncreated conscience and Fleming in the thingmote., That's heresy.)
+(Thread-84 ) Found collision: (467, 50059, I could die and he had coloured goatee, Dixon, quietly and, an envoy from there to Brother Michael was now to commit sin it true scholastic quidditas, long black arms behind him no reply, variant in the window, noting the words of the truth., Temple, praying God spoke to her like the oils of the great luminary of this way through which were covered face, hardening in his days of Kildare house and telling me to an outburst of Ovid in continents and the judgement, with his coat pockets of doubts, and winding galleries and why.)
+(Thread-92 ) Found collision: (471, 18735, At last the Irish man to arrange it is a thief to think that even when they made ache again to bed and his eyes towards the boys; Won't you were still leave the end to ask it preserves that God, spinning about the weekly essay., Aubrey and incoherent? I'm just where he had heard Father Moran? The distillery, eat hungrily.)
+(Thread-65 ) Found collision: (473, 27908, Thursday., The elder brother.)
+(Thread-96 ) Found collision: (454, 53224, He had silvery whistles and repose diffused about Holland., If they who had to spare and a friend, said Well, made a monk! Bous Stephanoumenos! cried Ah, Stephen lifted to his spirit of being buried; ever.)
+(Thread-82 ) Found collision: (492, 18800, Her round the soul waking dream he had existed for Davin, the essay writing he wrote a believer in Christ., Every breath.)
+(Thread-60 ) Found collision: (492, 22074, Of course, like a flame after this house and he drove in his choice of paper and Fleming asked., It was soft querulous voice and that I was striving, a notion to construe the fringe of the love? Is he knew that filtered through Stephen's face was alone was waking to and take the vigour of restless time is thus, turning to live or twice with fluent energy.)
+(Thread-71 ) Found collision: (492, 22631, Probably, and gave back; and Blessed John? What was dying fallings of the gravel was better than to that he had passed into a levite's robe or clasped his glass into the chapel in the elbow against one any way necessary that the carpenters, Temple said He would indeed goodness., In the greatest French writer, he is thy emblem is coming from the college on the period, is coming near and he did! Why did.)
+(Thread-86 ) Found collision: (543, 36966, But no plural., Go away the temptress of loathing.)
+(Thread-54 ) Found collision: (560, 4538, You could feel about Greece outside houses making light died then, dark eyes., Even though it when you know.)
+(MainThread) Collected thread 3
+(MainThread) Collected thread 4
+(MainThread) Collected thread 5
+(MainThread) Collected thread 6
+(MainThread) Collected thread 7
+(MainThread) Collected thread 8
+(MainThread) Collected thread 9
+(MainThread) Collected thread 10
+(MainThread) Collected thread 11
+(MainThread) Collected thread 12
+(MainThread) Collected thread 13
+(MainThread) Collected thread 14
+(MainThread) Collected thread 15
+(MainThread) Collected thread 16
+(MainThread) Collected thread 17
+(MainThread) Collected thread 18
+(MainThread) Collected thread 19
+(MainThread) Collected thread 20
+(MainThread) Collected thread 21
+(MainThread) Collected thread 22
+(MainThread) Collected thread 23
+(MainThread) Collected thread 24
+(MainThread) Collected thread 25
+(MainThread) Collected thread 26
+(MainThread) Collected thread 27
+(MainThread) Collected thread 28
+(MainThread) Collected thread 29
+(MainThread) Collected thread 30
+(MainThread) Collected thread 31
+(MainThread) Collected thread 32
+(MainThread) Collected thread 33
+(MainThread) Collected thread 34
+(MainThread) Collected thread 35
+(MainThread) Collected thread 36
+(MainThread) Collected thread 37
+(MainThread) Collected thread 38
+(Thread-100) Found collision: (545, 22177, And our own state by their distance by your doubts and his pockets or very big stick here waiting for us all hands and, so was to do you know that at length., As a mirror to think that's why he dared not to rob.)
+(Thread-90 ) Found collision: (712, 26760, He began and neck and they swished again., So far away in a moocow that about it riding out, tightly covered him from one of the Indian.)
+(MainThread) Collected thread 39
+(MainThread) Collected thread 40
+(MainThread) Collected thread 41
+(MainThread) Collected thread 42
+(MainThread) Collected thread 43
+(MainThread) Collected thread 44
+(MainThread) Collected thread 45
+(MainThread) Collected thread 46
+(MainThread) Collected thread 47
+(MainThread) Collected thread 48
+(MainThread) Collected thread 49
+(MainThread) Collected threads
+(MainThread) Finishing collision attack at 16 bits
+(MainThread) Beginning collision attack at 24 bits
+(MainThread) Generating threads
+(Thread-104) Found collision: (177, 14247742, Aquinas also in the prefect of the pool mottled tusks of the world was in a priest appealing without him and faint flame of what is descended from the prefects and water burst forth reflected in your sins masses of the attitude of its heat but Temple, shameful drops of God and that you ever met, circling closer together and White pudding would not, to its sleep., Not always were nice getting better man, crying to the sin after all the light, said Did you, to Stephen's ear And let on the flaps the fires of the Adelphi hotel in America and offered me and they had never occurred to hear the chief good for being searched by the cold white grey light unwound from him hard; she, father.)
+(Thread-127) Found collision: (1198, 4107467, Having written this miserable wretches be for a prayer, Simon Moonan and hostile to him his friend's listless silence a mortified will go out of the telegraph poles were they knew that ardent ways., Eileen had nice sentences.)
+(Thread-116) Found collision: (1747, 3497160, A soft grey light his mother but about the direction of the midst of Macalister's voice Pawn to you to cover of it on the squat peasant, do you pour the fog of habit he had been done such a lasting benefit of the light died away., You could buy another could not of the priest laugh together, far from Newcombe's coffee house in the college.)
+(Thread-122) Found collision: (1902, 11821873, It must choose the seraphim? Stephen Your fond son., With languorous look, Athy and said to the washstand a limp priestly office.)
+(Thread-138) Found collision: (2299, 7608229, Once or within him by his way., When he had never fierce old are provisional, a crown.)
+(Thread-115) Found collision: (2380, 12653619, Dear Mother, taking counsel with its intolerable stench, Stephen blushed and brought before the spirit., He was dressing table and Goggins skipped down upon them which he did those born of Brother Michael was exposed in Armagh? And they got the refectory when it was his chocolate which were you not discerning the coils.)
+(Thread-111) Found collision: (2482, 1585185, There's a bit hot tea lay, the higher than look it with others; his soul from your sun., But the air and God bless him bravely, said Stephen said uncle Charles Kendal Bushe, our grief; ever heard.)
+(Thread-123) Found collision: (2513, 15368242, Nor was kneeling figure standing in the dusk., Other students halted on his lips.)
+(Thread-106) Found collision: (2659, 7894672, My soul and weak., He bestowed them as you know whether he waited still averted, followed by some rough feel his shoulder angrily upon us? An ecstasy of which was that be in it, at those who approached her.)
+(Thread-148) Found collision: (2780, 14558696, He heard the leaf by reason thus because it! a deep bass and, that's all to be on to dishonour your name when she would know that was not answer and timidity and confessed to sin., Not so was lame but in groups.)
+(Thread-125) Found collision: (2938, 11891267, Tell me or senses, flamed in their leader's concertina., He would have done.)
+(Thread-128) Found collision: (3612, 11146291, Why him he had roared like a broken., To wit? Was there, but not there, the kingdom of swallows whose head and young face agreed that sin against heaven! He saw, to your souls; the gate.)
+(Thread-130) Found collision: (3709, 13950966, His heart., O, said Dante said The soul his look at home.)
+(Thread-117) Found collision: (3749, 10378239, They parleyed in to itself an iniquitous abandonment, standing before he had been done these few last after class coming down on the verses passed from the roar stopped before he smiled broadly., He had to repeat after another or so much longed to things were all, sir.)
+(Thread-146) Found collision: (3841, 988236, Then he had got those who washed clothes, turning towards them? Or rather than a louse marks of stale shite, that's all had led to him., The past the horses rubbed it was at its palor, symbolizing her race.)
+(Thread-140) Found collision: (3985, 3404813, The air, may it was right., And who pulled his neck and Stephen and sweet Rosie O'grady and singing as beautiful colours? While his thought or drink when she like perfume.)
+(Thread-120) Found collision: (4037, 7159570, That was not the grave clothes, Mr Tate did not a new emerald exercise., Freedom! Poor Parnell seemed weary of the amount of an echo also and under cover esthetic image brought to recite the body and then said If a shrewd northern face? The causes of his neck and strengthening in this, their company of ardent ways? That seems now as he could scarcely have the Blessed Virgin that he dared to live here in his head.)
+(Thread-102) Found collision: (4101, 1870068, Crossing Stephen's heart., Thrust it fare for? Yes, Temple, body and Bob Dyas and by the pens scraped lightly.)
+(Thread-101) Found collision: (4312, 2020594, Corpus domini nostri., We can return for one that word I am Stephen said, blinded and as ten.)
+(MainThread) Collected thread 0
+(MainThread) Collected thread 1
+(Thread-141) Found collision: (4370, 12322266, Are you of all in using money., But you mean shop of sad thing like that, rich and strange and nobody made it and, striking chords softly with hostile humour of Middlesex.)
+(Thread-145) Found collision: (4361, 6661457, Mrs Riordan, standing at the cracking tenement of saint and away his spectacles, a figure, Lancaster! I'll go on the ears with fright, of angels and repeating Not too like a dream he had an angry snap and fell and brought before his pen., He often and his humbled and said.)
+(Thread-133) Found collision: (4389, 9784449, The terror stricken face of night before the battered canisters and that valve at the end of his chest, he saw the ladies, Aquinas, answered cheerily., It is another was a fellow but he said Father Arnall said Mr Dedalus, beating eleven strokes in his chaps after all highly respectable people? He became slowly, saying.)
+(Thread-142) Found collision: (4555, 4901466, All the tree which horses knew that is integritas., Such is too but in secret than physical.)
+(Thread-119) Found collision: (4769, 2480112, The dean added, green of guilty confession became aware of life., They thought that way, refers to their crackers, gluttonous enjoyment of mind bred vermin, sir.)
+(Thread-105) Found collision: (4854, 14886185, What is equidistant from far as one plague alone is wrapped up to say that lecture., The class after glee after years when it be beautiful the breaking suddenly grew dim scenes of cloth of pale cool and falconry.)
+(Thread-110) Found collision: (4981, 10521473, Saint Thomas and good and downwards a sign that he used to hear the spelling from a presence moving in the flagstaff and shapely strong? Stephen You have often glanced at his heart quicken in Eden and weak eyes were so strange unrest issued from his father's voice bidding his armpits, that's why we beseech thee, sir? a purely personal shame of light, Stephen., First, indeed! said over the sky and the image of which had greaves in a single instant Shelley likened beautifully to think of the seats he was visible to find himself for all this morning and, holding his neck made a tardy spirit, having offended Thee never presumed to him like a big dishes covered with a good time for the college.)
+(Thread-126) Found collision: (5105, 14899855, I tell you? the wall of it in Paris where the tepid limbs., The personality of the eyes by their tides began to.)
+(Thread-132) Found collision: (5128, 7557146, Those were funny face., Mother asked.)
+(Thread-131) Found collision: (5302, 12258096, His unrest and near the common milkman and chalks., They came.)
+(Thread-113) Found collision: (5377, 13938744, You flouted the corridor, new pair, would go, and beyond the soutane and ended well what he could not Cranly's greeting and held the old bustling life or as it is going to him that I mean, holy enough that which he said Dante too had done it was aware of vapour, you signed the incidents of prayer, they have something about the field of his hand raised in your point of art necessarily divides itself of the faithful serving of sounds of God and the world you., He moved hither and you made just like the Pharaohs were there were some dark, a snort of bunting on his own heart, therefore the glow was going down her, as a man was in a wail of the base of plain of the physics.)
+(Thread-112) Found collision: (5408, 6810648, They lit up, who approached the side in the fringe of gold, though he walked forward in Stephen's ear, his class, nay worse of the bench in sin corrupted flesh responded to the step, than I must choose the city like a man's hand with it went over his remembering swiftly, that his loneliness and then for the bishops of the class like that through the field, though the wet., And it.)
+(Thread-109) Found collision: (5494, 11082452, But Doyle is it was very brain to his crocodile? said., A cold and rotting human life of His soul into the marketplace is condemned to them also am? Is it.)
+(Thread-139) Found collision: (5481, 5530610, It's young and weariness yet? Or was mentioned, pitting himself the instrument chosen by their gowns traversed by a sincere man, as a man's humour and eyes., Leicester Abbey Where? Dante said constantly beheld by saying The church and upbraid him that he had sinned so many years.)
+(Thread-103) Found collision: (5565, 7661661, To him down the gravel was unable to his heart I call to her gift for Michael., You are but would be afraid to you were idle little doors.)
+(MainThread) Collected thread 2
+(MainThread) Collected thread 3
+(MainThread) Collected thread 4
+(MainThread) Collected thread 5
+(Thread-114) Found collision: (5696, 4921217, Then he had seen the windows of the Donovan and muddy, of his voice Pawn to press, a man I am? he could he the evil so as the fellow's machine lightly on Lynch's culture and sobbing and I neither rare phrases and, how beautiful angels, to that the cries and execrations, whenever it that mistake, Father Who knows you not? The old man is punished., Temple, as there appeared on the pox fouled with all open like a long as we knew that the door of cruelty but both.)
+(Thread-108) Found collision: (5907, 6399251, He was destined to the letters cut in warning the burning spikes, a herd of his father's house to his soul crept through which hung cloth with his mood, taking a quiet avenue evoked in the unspoken speech., No, a flutter again in secret soft liquid joy.)
+(Thread-137) Found collision: (5923, 9364401, What did not turn., From without anger at length, deepening in the playroom you want to recall their fellow had a submission and an eternity of Davin did, to the word I will you drunk some rite rather in the end of grace a loud with black slimy and my dear boys, burning pulp of his mother cannot awaken in a sudden call, soft and sisters who had covered him seriously and tomorrow, stars of curiosity ran after Donovan? Stephen.)
+(Thread-129) Found collision: (5983, 8117534, I am trying to send him go upstairs., No, found an end when once turned towards the grey warm and have a continual variety of the steps said Now, another cup of a happy, Cranly took off from their knees? Yes, that? Only a different foods.)
+(Thread-150) Found collision: (6303, 15246611, It can't understand better never go to clean the thing., Don't forget them.)
+(Thread-144) Found collision: (6436, 12493849, The poor attempt to sit over at the true and pandy a moment in a ravaged turnover., But his own father had been drawn.)
+(Thread-121) Found collision: (6511, 2742833, And would make our old leather orb flew there, said that you apprehend its laying the blankets from the jesuit for their exultant and representation of many hearts were false patience they were shut and when it and faint sickness of strange., Good day he smelt it had ever reaching.)
+(Thread-143) Found collision: (6841, 13506080, The image, eleven to his entrails., We come down to look at the rice, by his youth saint Joseph, who sat along the swish of error of them not trouble and caps were so deserving of the russet and brushed and that not gone to smoke of order.)
+(Thread-134) Found collision: (7097, 12358764, It was in the vestry and he held out into the vision he spoke and other way to win still in politics from the cows were inhaling a name of third line told him and Father Arnall's low through the Father Moran? Don't fret about her, well, Cancer one of extension, and romped noisily and perhaps his mother had heard the fireplace and gestures which is the field or immersed in faded and colour which excite yourself, weary of soul itself east, Dedalus had always right., But Clongowes came down by the fellows looked forth anew in the playground and coherent and his heavily out of vapour or voyaging high altar wine.)
+(Thread-136) Found collision: (7230, 15975276, Come here now., Let us! i'm blinded and unworthy imperfections.)
+(Thread-135) Found collision: (7679, 217126, I am heartily sorry then kneel and be damned, poor of the summer and dire word now, by habit, said And a much good catholic church too much to meet this earthly prisons the common and to Brother Michael Robartes remembers these halts Stephen urbanely, he could never heard a tiny little boys had a soul., It was a faint timid pressure, he was waking slowly the seatangle was called herself a foul laneways he speaks and rotting and along the corpse.)
+(Thread-147) Found collision: (9094, 2435128, The soul trembled as we had been turned and flushed and scope of his eyes., A moment he had silvery whistles and did eat the top.)
+(Thread-149) Found collision: (11004, 3658301, I am, discouraging him by God of sin against God humbly conscious that was the end? He calls the landing., They were playing in his heart already failing and, he did you could die at Stradbrook with dignity of the fair courts of him any terrible against that art? He got on and He laid it? Many persons have written at night clouds, had still in his stature and He agreed well, because he was pandied when the clicking turnstile.)
+(Thread-124) Found collision: (12019, 15435383, Dingdong! Two lean student who had saving your name of hirelings., The artist prolongs its wholeness, don't meddle in the universe entreated you? he had ended the end when he had a quick smacks.)
+(Thread-107) Found collision: (12447, 9697453, The snares of holly and in the first lamp and shrill whistle was mean that story about him, the wall pair of his lips And how it and bottomless., The lank brown crossblind, as you mean in and trying for one day.)
+(MainThread) Collected thread 6
+(MainThread) Collected thread 7
+(MainThread) Collected thread 8
+(MainThread) Collected thread 9
+(MainThread) Collected thread 10
+(MainThread) Collected thread 11
+(MainThread) Collected thread 12
+(MainThread) Collected thread 13
+(MainThread) Collected thread 14
+(MainThread) Collected thread 15
+(MainThread) Collected thread 16
+(Thread-118) Found collision: (12732, 9459628, No! And, now., He turned back from its abject, Stephen! cried to find you seen for what he did he kissed the prefect's cold and Eve yielded to your outward to hoodwink one's fellow off into the lashes flung the rays from his boyhood, quite catch hold the world, flowed and the touch his, day, Sunday being infinitely varied, began to you can, the narrow corridor that one of property, sidled out there a smile flew through the scene of his fingers of hell when she appear again the bed, I'm a lady's nosegay on its fabled books of children to fall.)
+(MainThread) Collected thread 17
+(MainThread) Collected thread 18
+(MainThread) Collected thread 19
+(MainThread) Collected thread 20
+(MainThread) Collected thread 21
+(MainThread) Collected thread 22
+(MainThread) Collected thread 23
+(MainThread) Collected thread 24
+(MainThread) Collected thread 25
+(MainThread) Collected thread 26
+(MainThread) Collected thread 27
+(MainThread) Collected thread 28
+(MainThread) Collected thread 29
+(MainThread) Collected thread 30
+(MainThread) Collected thread 31
+(MainThread) Collected thread 32
+(MainThread) Collected thread 33
+(MainThread) Collected thread 34
+(MainThread) Collected thread 35
+(MainThread) Collected thread 36
+(MainThread) Collected thread 37
+(MainThread) Collected thread 38
+(MainThread) Collected thread 39
+(MainThread) Collected thread 40
+(MainThread) Collected thread 41
+(MainThread) Collected thread 42
+(MainThread) Collected thread 43
+(MainThread) Collected thread 44
+(MainThread) Collected thread 45
+(MainThread) Collected thread 46
+(MainThread) Collected thread 47
+(MainThread) Collected thread 48
+(MainThread) Collected thread 49
+(MainThread) Collected threads
+(MainThread) Finishing collision attack at 24 bits
+(MainThread) Beginning collision attack at 28 bits
+(MainThread) Generating threads
+(Thread-181) Found collision: (1139, 250942647, And what he was about the grey silence., Instead the electric lamps.)
+(Thread-179) Found collision: (2778, 166865112, Is your family? Or the knees! said Maccann stood before that I tell the news out of what Peter Kenny sitting alone his eyes, the Holy Ghost might descend upon Davin's story sang that lovely to stop., I don't you to love some fine after him short passages from the Great Judge, said.)
+(Thread-186) Found collision: (3487, 266721407, His grace a hansom in a presence of Tone and drank another., His anger routed by telling of the history.)
+(Thread-167) Found collision: (3638, 21899051, You're a damp overall into the porch of the room., He came from the sight of the doorway Cranly turned right and the subject of art? Perhaps he said, marred by the stained yellow.)
+(Thread-168) Found collision: (4439, 191715745, It was impelled to speak to make that impure and no more shame for ever be his father had withered at play On the lily of the fig and the fellows looked about suffer, to her shoulders were silent air was damp and selfcontained upon the sound was hidden the proud claims of egg shells and when you do that this boy? Or was mean, the bird from me all the air was not borne back on the bath and slimy the chapter, too, said., Everyone would never to cover of verses, Simon Moonan had sinned against part or second year their favourite writers whose shameless or what's up here, is the interests on the ghosts of the life.)
+(Thread-173) Found collision: (5408, 209565155, To be like this blankety blank expressionless face and representation of the word in different places without was pinning up to behold in that song had when he writes in the ravenous tongues of the shallow swirling bogwater on the moment ago., Victoria Hotel.)
+(Thread-191) Found collision: (5456, 57849418, The chaos in the boy tried to be otherwise? All day of intuition, lambent narrative is totally deprived of his hands in good hearted Johnny! Well, simply wished first person., I sir.)
+(Thread-192) Found collision: (6148, 49741102, The wind was for his companion in the next., Banish from his father's house and dark under the mortification to time was set myself.)
+(Thread-197) Found collision: (8201, 180876956, They would never know what he could not, restless mind and he said Why did not to amend my life was there for his bolster., Maccann went from all the shameful thoughts in jericho.)
+(Thread-174) Found collision: (8291, 153025639, I was sitting on the lane of a glimpse of cloudy shapes and, he had enemies and almost become and he had existed., There are they came down.)
+(Thread-156) Found collision: (8296, 220779137, But no worldly thoughts hither and from garden., Do you the sound was no respect for warmth, was wrong because Eileen had appeared suspended in the table, standing urine; and said that he did it? And therefore be free.)
+(Thread-193) Found collision: (8446, 168077152, Lynch whispered back., W.)
+(Thread-153) Found collision: (8527, 214798451, 3 The other hand him the front garden., He would create proudly out, made to overflow it.)
+(Thread-200) Found collision: (8758, 168077152, W., Lynch whispered back.)
+(Thread-194) Found collision: (9569, 15546059, He recalled his own activity but for a word in the busy all hell is not answer to him round with yells of his longing., The lank brown horses are we are a thing alone, signifies a ragged dress and sat at once because the Blessed Virgin that he let you a child.)
+(Thread-154) Found collision: (9680, 103571850, The same inaudible voice from England or ought to go in little old Barrett in tomorrow and mournful lays Rise in a round the justice insists upon a hack to your mouth and sinful city., Then gave orders and powdered head often had fallen unawares.)
+(Thread-187) Found collision: (10877, 82544743, It happened not to think you told me at the street as he, Cranly, leaving his soul save for the hatred of conscience will burn for ages before him Irish myth., And I'm all the feverish quickening his heart of a poet, covetousness in its greatest poet! They were grown monkeyish face was every sin, and what did not a hooded reptile.)
+(Thread-175) Found collision: (11460, 158481710, Apologize, said, said, envy of the memory., God that the other avenue and oglings of loss, their heads bent down.)
+(Thread-159) Found collision: (12298, 78614327, By hell with deep, of anything, to the wings., You've had knelt together after all the background of the pain, Fonsy Davin sat near him, gnawed by a moment of a magistrate? About what he was like the road met an elephant.)
+(Thread-163) Found collision: (12943, 160626345, But o the people and pointing to your spirit stung him, night had she an emperor, get up and loneliness and stars being infinitely good and complex sensation of the fire is the jar., And were Josephine? Do you believe you're always nearer their knowledge.)
+(Thread-176) Found collision: (12989, 212617218, Every sense of your will try slowly falling on account, helpless that, his own mind he felt, perturbed, or ambitions? But the peasant women., Her eyes said Mr Casey.)
+(Thread-196) Found collision: (13262, 206204857, He beat often confused voices in hell, slimy streets but, crowned on my child., The firelight flickered once, sir, but cerements and water.)
+(Thread-189) Found collision: (13470, 33493742, I want the depths and veneration., It shocked him more and indifference reigned in which the sight and not dare to his tears and chewing nervously from the people.)
+(Thread-190) Found collision: (13505, 35280701, You may be out by heart., He turned towards his grandfather and once by the dark shell of the train fare for the ghost in the church as he had to repent in this fire is tortured eternally devours, to a new testament about himself to one moment he had paid a tremulous fingers that his mind of its bending now from God's turn and, said Gentlemen, the steps and inward.)
+(Thread-180) Found collision: (13509, 244182913, It's very far away from your match., Of disgust, yes and, through which you a lewd habit, the church and damn good fellow out there would you pour in the artist is a voice say Dedalus.)
+(Thread-188) Found collision: (14470, 68107344, It was, intolerably intense sense of poor, when you made it might as easily as against the reality his dark lit up ungrudgingly for a glass pierced with a name between the court of eternal damnation consists in public house of heaven and said Why is indeed bred among them, that was soaring impalpable., We can to have met the gymnastic display.)
+(Thread-170) Found collision: (16333, 95335150, He smiled., Beware of pink tinges of conscience and the church and by Thy holy will remember only two behind in small handful of waves, dangerous to sweep across the dull gross voice was unable to confess that of his guests while they are in the Irish fellows and binding down to Glenmalure, said Mrs Riordan? Yes? It was a belt.)
+(Thread-171) Found collision: (17121, 4410862, When he was gathering upon her young man, Father Dolan it according to handfuls of countless particles of the foul spirit of the glow., Clongowes is looking across the sand built to find himself that, the country! cried from here, that sin too? And that's you any fasting or deed, the other night mail behind their faces, he strode down the Bantry gang of the Blessed Virgin herself a dry.)
+(Thread-169) Found collision: (18158, 125541187, Stephen, it's quite bad word yet awhile., The Dedalus repeated.)
+(Thread-151) Found collision: (19434, 2538727, I thanked her brother a jolly round a thousand souls., The night air was baby tuckoo.)
+(MainThread) Collected thread 0
+(Thread-198) Found collision: (19500, 230286379, He offered her shoes dangling and the high leafage among the left in my mouth when thinking and, the first communion for yourself! cried from her gown, Cranly, amid which was so that God., It might avail no more shame and a bell rang for the park, you.)
+(Thread-162) Found collision: (20563, 227137096, Brother Keogh., Promise God! He had lost her, and he thought what I hope of his umbrella in class.)
+(Thread-177) Found collision: (22835, 144335201, But his lieutenant before the priest for any boys, replied the prefect outside the bishops and that morning, came out of the radiant his well, girt with little group was to him an elephant had still as a hundredfold and priests with him in a reflector hung there arises a happy life purified heart., This race less ignoble than their game of which the prefect was a revolutionary nature.)
+(Thread-152) Found collision: (23083, 103464105, Such booing and the league class the tears, Mr Moonan that thought to be despondent., We kept the last verges of his soul.)
+(MainThread) Collected thread 1
+(MainThread) Collected thread 2
+(MainThread) Collected thread 3
+(Thread-183) Found collision: (23705, 121663636, The air and neglected., What hour was merciful works in Belvedere had taken, and he had said then? He saw a soft perfumed head, said.)
+(Thread-184) Found collision: (23893, 32883271, Then said No., Give us, but had confessed and delicate stuffs that led him back in lowly trade, if God if outlined on, my fatherland, banked high veiled sunlight was brought his eyes the purgatorial fire which the city fearlessly and stop the table where Simon Moonan and said the kettle would not proud cadence or lowliest devotion than he had he said.)
+(Thread-182) Found collision: (24584, 148695353, Any allusion had ended; ever to Simon Moonan., The faint smell off into obscure silences only passing loudly as formal esthetic pleasure inside his mother brings you will take leave the place came the stale shite, he remembered the maiden lustre suited to see that pockets or would hold the dresser was pale light flew hither and fluttered as they dragged down the wood of Newman's in the stopper up her eyes and felt his hunkers and sinful perfume streaming upwards by my eldest son of the error had said that they were kilted boldly in the jar in the common mirth amid the stimulus of the jesuit motto a good for Brigid to God even the first touch his voice, pulcra sunt quae visa placent.)
+(Thread-165) Found collision: (25251, 156632679, Then, from siegfried whistled, to cross., For ever a corner of bread? april 3 Articles and cadences of enchanted days and perhaps two attendants, charged with the victory? asked.)
+(Thread-195) Found collision: (27444, 183744015, He stopped at all the beginning he shouted Stephen! He shook his chest., Would you hear.)
+(Thread-166) Found collision: (28961, 191060020, He's very soul., The rector on the descriptions of honour and strange faces there must be despondent.)
+(Thread-172) Found collision: (28948, 120887184, Stuff it, the left, the flyleaf of celebrant, shaken hands slowly, Cranly he clambered down the prodigal., He tried to be one of him where he remembered rightly, make the morning light entered where Moynihan whispered to learn the Metamorphoses of reality of the idea of God humbly and began to keep your mother must be subject, o dear little mirror to come back of killarney and rid himself till the cards for the turnips and dead.)
+(Thread-185) Found collision: (30330, 20005952, But the altar again during all sides in our neighbour., They obeyed their dark and daughters of a shilling when they scorned and may enlighten your name too late and passed in hellfire for weariness beset once more intense at either not eat again laid down slowly round rogue's tears scalded his mind, which says Ecclesiastes, and behind Good? Stephen walked on the pictures which delivered of hell all others, a brick in a single instant of virtue and prodding his death of Clane, time he said Mr Casey had begun.)
+(Thread-178) Found collision: (31929, 123355945, Epictetus also and unfolding, and that the greeting to each way., Cantwell I'd be strong and impersonal his hair, the prefect of the attitude as his bedside the gust through the road he brought back in his eyelids in a little by an ear splitting whistle, my green baize door to him to Stephen said the world of studies.)
+(Thread-161) Found collision: (31891, 60802357, Stephen laughed., A film of the poor words taken in Dunn's of personal experience, his post futurum.)
+(Thread-155) Found collision: (32001, 266922360, Frequent and innocent Lamb of billiards to like the priest would not attracted his silver because, Stevie, and their two behind., They were passing on in Europe who offends against his humbled and over it gives forth no more of devotion, prolonged, of the tabernacle itself the Elizabethans, said as he and third line playground All fair rain began to rest? The end of disgust.)
+(MainThread) Collected thread 4
+(MainThread) Collected thread 5
+(Thread-157) Found collision: (33150, 166992090, For I think that at his face, the beautiful colours it had lain in that awful place., Heavenly God! the fringe of the tepid limbs quivered with it off noisily.)
+(MainThread) Collected thread 6
+(Thread-199) Found collision: (33659, 217465022, Lessing, have amended my own laws are the lady, said If so happen, made all kinds of the hairpins in a sombre porch., What did, Mr Dedalus is unchangeable this desire like the road after scale rising and said Stephen.)
+(Thread-164) Found collision: (35469, 240583249, And if he had to go for March., He shook with a small glass pierced with her.)
+(Thread-158) Found collision: (39334, 72282048, Do you must be on errands for fear., And, repeating By hell, turning right answer our freedom.)
+(MainThread) Collected thread 7
+(MainThread) Collected thread 8
+(Thread-160) Found collision: (40462, 210220558, I am glad he lay between their table., It was God head.)
+(MainThread) Collected thread 9
+(MainThread) Collected thread 10
+(MainThread) Collected thread 11
+(MainThread) Collected thread 12
+(MainThread) Collected thread 13
+(MainThread) Collected thread 14
+(MainThread) Collected thread 15
+(MainThread) Collected thread 16
+(MainThread) Collected thread 17
+(MainThread) Collected thread 18
+(MainThread) Collected thread 19
+(MainThread) Collected thread 20
+(MainThread) Collected thread 21
+(MainThread) Collected thread 22
+(MainThread) Collected thread 23
+(MainThread) Collected thread 24
+(MainThread) Collected thread 25
+(MainThread) Collected thread 26
+(MainThread) Collected thread 27
+(MainThread) Collected thread 28
+(MainThread) Collected thread 29
+(MainThread) Collected thread 30
+(MainThread) Collected thread 31
+(MainThread) Collected thread 32
+(MainThread) Collected thread 33
+(MainThread) Collected thread 34
+(MainThread) Collected thread 35
+(MainThread) Collected thread 36
+(MainThread) Collected thread 37
+(MainThread) Collected thread 38
+(MainThread) Collected thread 39
+(MainThread) Collected thread 40
+(MainThread) Collected thread 41
+(MainThread) Collected thread 42
+(MainThread) Collected thread 43
+(MainThread) Collected thread 44
+(MainThread) Collected thread 45
+(MainThread) Collected thread 46
+(MainThread) Collected thread 47
+(MainThread) Collected thread 48
+(MainThread) Collected thread 49
+(MainThread) Collected threads
+(MainThread) Finishing collision attack at 28 bits

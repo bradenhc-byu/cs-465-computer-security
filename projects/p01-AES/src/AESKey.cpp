@@ -68,7 +68,7 @@ Byte **AESKey::nextScheme() {
         scheme[2][i] = (Byte)((_schedule.at(_scheduleIndex + i) & 0x0000FF00) >> 8);
         scheme[3][i] = (Byte)(_schedule.at(_scheduleIndex + i) & 0x000000FF);
     }
-    _scheduleIndex += _value.size() / 4;
+    _scheduleIndex += 4;
 
     return scheme;
 }
@@ -85,7 +85,7 @@ Byte **AESKey::inextScheme() {
         scheme[2][i] = (Byte)((_schedule.at(_ischeduleIndex + i) & 0x0000FF00) >> 8);
         scheme[3][i] = (Byte)(_schedule.at(_ischeduleIndex + i) & 0x000000FF);
     }
-    _ischeduleIndex -= _value.size() / 4;
+    _ischeduleIndex -= 4;
 
     return scheme;
 }
@@ -111,7 +111,7 @@ const size_t &AESKey::length() {
 
 void AESKey::resetSchedule() {
     _scheduleIndex = 0;
-    _ischeduleIndex = _schedule.size() - (_value.size() / 4);
+    _ischeduleIndex = _schedule.size() - 4;
 }
 
 void AESKey::expand() {
@@ -138,7 +138,7 @@ void AESKey::expand() {
     }
 
     // Generate the rest of the key
-    size_t scheduleLength = keyLengthInWords * (rounds + 1);
+    size_t scheduleLength = 4 * (rounds + 1);
     for(size_t i = keyLengthInWords; i < scheduleLength; i++){
         Word tmp = _schedule[i - 1];
         if(i % keyLengthInWords == 0){
@@ -151,7 +151,7 @@ void AESKey::expand() {
     }
     printSchedule();
     _scheduleIndex = 0;
-    _ischeduleIndex = scheduleLength - (_value.size() / 4);
+    _ischeduleIndex = scheduleLength - 4;
 }
 
 Word AESKey::subWord(Word w) {
@@ -172,7 +172,7 @@ Word AESKey::rotWord(Word w) {
 void AESKey::printSchedule() {
     std::cout << "Key Schedule for AES:" << std::endl;
     int round = 0;
-    int step = getSizeInBytes(_mode) / 4;
+    int step = 4;
     for(int i = 0; i < _schedule.size(); i += step){
         std::cout << std::dec <<  "Round[" << round << "]: " << std::hex << std::setfill('0') << std::setw(2)
                   << _schedule[i] << _schedule[i+1] << _schedule[i+2] << _schedule[i+3] << std::endl;
