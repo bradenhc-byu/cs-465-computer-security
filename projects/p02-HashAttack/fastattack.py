@@ -67,7 +67,7 @@ def pre_image_attack_worker(bit_size, averages):
     c = g.get_word()
     ch = SHA1Wrapper.hash(c, bit_size)
     count = 1
-    while ch != wh or c == w:
+    while ch != wh:
         c = g.get_word()
         ch = SHA1Wrapper.hash(c, bit_size)
         count = count + 1
