@@ -1,0 +1,105 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=2506695/C=US/ST=Illinois/L=Riverwoods/O=DFS Services LLC/OU=Business Technology/CN=www.discovercard.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIJuDCCCKCgAwIBAgIQBrU3vXKQ7rYx9BZUz7pSsTANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE3MTIzMTAwMDAwMFoXDTIwMDEwODEy
+MDAwMFowge4xHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRMwEQYLKwYB
+BAGCNzwCAQMTAlVTMRkwFwYLKwYBBAGCNzwCAQITCERlbGF3YXJlMRAwDgYDVQQF
+EwcyNTA2Njk1MQswCQYDVQQGEwJVUzERMA8GA1UECBMISWxsaW5vaXMxEzARBgNV
+BAcTClJpdmVyd29vZHMxGTAXBgNVBAoTEERGUyBTZXJ2aWNlcyBMTEMxHDAaBgNV
+BAsTE0J1c2luZXNzIFRlY2hub2xvZ3kxHTAbBgNVBAMTFHd3dy5kaXNjb3ZlcmNh
+cmQuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8mE/sAoCpXdM
+4HOot5RmqRrJ8PJLYQp+kKD5pX+uxd/tMq/K7IVbw0Ag6h/KABcSw0IQwPrwRXgn
+fGxEhMkLqHj5wIIw3HpvzI7yZorNkoDzY/2ZY8GWy77qie1HBN3IJzb5qJv5WbQI
+JysrjagzaNiQM4oC131SIFWzWsWF2lqMx97afd/8Yn3IqOm9zmqUzSDBDZwSq6x0
+M4qtnIWQ3qd1FWqm25PEbvicnvVmEXoyotVu2+/fo/demqoj1mToshEkI//gqqrF
+dYKZB9iEPfbt/wirv+jeRU7AU5oDo/kgb2jy6MCXkWIl2/oBebpd1KFrsUU4W1Gh
+Z+JTXnGyHQIDAQABo4IFyDCCBcQwHwYDVR0jBBgwFoAUPdNQpdagre7zSmAKZdMh
+1Pj41g8wHQYDVR0OBBYEFLIP/MHblxCEVRXMO0VZiyAQRcdwMIIB+AYDVR0RBIIB
+7zCCAeuCEWNhcmQuZGlzY292ZXIuY29tgg9kZnNkaXNwdXRlcy5jb22CDGRpc2Nv
+dmVyLmNvbYIQZGlzY292ZXJjYXJkLmNvbYIUZGlzY292ZXJjYXJkaXNmdC5jb22C
+FGV4dGF1dGguZGlzY292ZXIuY29tghFsYWJzLmRpc2NvdmVyLmNvbYIObS5kaXNj
+b3Zlci5jb22CEm0uZGlzY292ZXJjYXJkLmNvbYIRbWFwaS5kaXNjb3Zlci5jb22C
+FW1hcGkuZGlzY292ZXJjYXJkLmNvbYIXbXN0MC5tLmRpc2NvdmVyY2FyZC5jb22C
+FG9meC5kaXNjb3ZlcmNhcmQuY29tgg9vbmVkaXNjb3Zlci5jb22CE3BvcnRhbC5k
+aXNjb3Zlci5jb22CF3FzeXMubS5kaXNjb3ZlcmNhcmQuY29tghNzZWFyY2guZGlz
+Y292ZXIuY29tghdzZWFyY2guZGlzY292ZXJjYXJkLmNvbYITd3d3LmRmc2Rpc3B1
+dGVzLmNvbYIQd3d3LmRpc2NvdmVyLmNvbYIUd3d3LmRpc2NvdmVyY2FyZC5jb22C
+GHd3dy5kaXNjb3ZlcmNhcmRpc2Z0LmNvbYIQd3d3Lm5pYy5kaXNjb3ZlcoITd3d3
+Lm9uZWRpc2NvdmVyLmNvbTAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwEGCCsGAQUFBwMCMHUGA1UdHwRuMGwwNKAyoDCGLmh0dHA6Ly9jcmwzLmRp
+Z2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmwwNKAyoDCGLmh0dHA6Ly9j
+cmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWV2LXNlcnZlci1nMi5jcmwwSwYDVR0gBEQw
+QjA3BglghkgBhv1sAgEwKjAoBggrBgEFBQcCARYcaHR0cHM6Ly93d3cuZGlnaWNl
+cnQuY29tL0NQUzAHBgVngQwBATCBiAYIKwYBBQUHAQEEfDB6MCQGCCsGAQUFBzAB
+hhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wUgYIKwYBBQUHMAKGRmh0dHA6Ly9j
+YWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJFeHRlbmRlZFZhbGlkYXRp
+b25TZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADCCAfgGCisGAQQB1nkCBAIEggHo
+BIIB5AHiAHYApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFgroH3
+5gAABAMARzBFAiBdIEwpWt2y3lJtCCwBAFhsWTAHBkn0/sCUO9jlLUT4PQIhANza
+mzhIKcTjzu/Ds7f/CZCOAlNhELi37N179o5kvZ3xAHcAVhQGmi/XwuzT9eG9RLI+
+x0Z2ubyZEVzA75SYVdaJ0N0AAAFgroH42QAABAMASDBGAiEAuypofPWdejH6eezj
+2mqReF2fX17OU9eCbL7k47AY3+0CIQDw4pQm6E4Dved6GqHxN1+eNzV88JtiMuuV
+cecmNM6nAwB3AO5Lvbd1zmC64UJpH6vhnmajD35fsHLYgwDEe4l6qP3LAAABYK6B
++DEAAAQDAEgwRgIhANhYbhyXl4ryvUyeHNrmyNMwu9Uh06kphCECG/RrTymyAiEA
++VHz0QsSUFtAbLqDUJF9qqYYHBQ+hh4EbAzbOR9Dp5gAdgC72d+8H4pxtZOUI5eq
+kntHOFeVCqtS6BqQlmQ2jh7RhQAAAWCugfilAAAEAwBHMEUCIQDsPk1UrFYIa+1G
+LgODmUp0B7Tq/UAccIL6UHaPyWNReQIgN4RGqYyVMAzaU6zfrJpk9Lo2VGbniGvQ
+18oXBtG7AeswDQYJKoZIhvcNAQELBQADggEBALXlm9AtnjJSRKSL7EMhVzs8fo+9
+fuCprWKJ9pqA4ZAcgLncepb/YX2xsH6JiEEMjUdCyVZJ09cJ0PrJnmdTQ5QSNeit
+8jOqUsJ9QMsb8mAoJCGKFQogxHSddhBC7R1LK/1To1Q6MQriAFcLDr99BK5wJN0w
+PnlgF7kDW1wtMoygwT/cEBI+gzdvpG0AiQVPXTL+lJaoJb/ZWm/3qhGUwRQijUVw
+IC0Ss9Adc65lqCgIBmp1jhfSzp3KYxLsstPQXyc/WWZ4nHMXN7MDJHborW5aUoxZ
+Kj/85esCMO68rdrsvPNWifeduUt9EavoaFrjSlJwKThH5wer9awO5YLYdlc=
+-----END CERTIFICATE-----
+subject=/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=2506695/C=US/ST=Illinois/L=Riverwoods/O=DFS Services LLC/OU=Business Technology/CN=www.discovercard.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 4359 bytes and written 431 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 7093CF7E3B3631E9D20635B1F8D0747EB87B3E5CC667129C6871478FE0B0A8D6
+    Session-ID-ctx: 
+    Master-Key: 6F8F39F0DB2BC52719517AB159644291AF1040E8341E392FC54943D9B84F4B345A7FA2947F13C2A1095330378E3EB5C1
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 00 00 38 f1 68 bf 0b ca-bc e7 c4 5c ae af a6 35   ..8.h......\...5
+    0010 - a8 31 35 40 f7 32 5b f9-e8 6c 01 10 c0 52 45 e0   .15@.2[..l...RE.
+    0020 - 18 46 14 e3 69 87 2b 43-b2 a3 14 79 28 37 5d 63   .F..i.+C...y(7]c
+    0030 - a1 29 64 7a 6c 95 0a 56-32 fe 5c 36 c5 b5 57 ec   .)dzl..V2.\6..W.
+    0040 - 92 80 8c 7c a4 03 47 93-51 43 b9 f2 e3 2d e1 fe   ...|..G.QC...-..
+    0050 - 8a 9e fc 3f 7e bf 94 6d-b9 86 75 52 f0 ad 30 0b   ...?~..m..uR..0.
+    0060 - 5f 8e 3e c8 48 00 a3 89-70 49 a9 48 18 32 e3 9a   _.>.H...pI.H.2..
+    0070 - c7 73 a1 80 40 b4 47 03-3b 7c dc 13 97 a7 f7 f7   .s..@.G.;|......
+    0080 - 87 e4 a6 41 04 f8 c2 52-a5 c2 6e d9 9c d4 46 81   ...A...R..n...F.
+    0090 - 00 f5 36 a2 91 35 80 02-8a 38 83 0b 1c 10 99 c5   ..6..5...8......
+
+    Start Time: 1520036380
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

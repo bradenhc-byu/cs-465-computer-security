@@ -1,0 +1,70 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=Utah/L=Salt Lake City/O=Intellectual Reserve Inc./OU=Intellectual Reserve Inc./CN=*.lds.org
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIFeTCCBGGgAwIBAgIQCY+id39kZZoqL5grB/+nBzANBgkqhkiG9w0BAQsFADBw
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xNzAxMTAwMDAwMDBaFw0xOTA0MTcxMjAwMDBa
+MIGRMQswCQYDVQQGEwJVUzENMAsGA1UECBMEVXRhaDEXMBUGA1UEBxMOU2FsdCBM
+YWtlIENpdHkxIjAgBgNVBAoTGUludGVsbGVjdHVhbCBSZXNlcnZlIEluYy4xIjAg
+BgNVBAsTGUludGVsbGVjdHVhbCBSZXNlcnZlIEluYy4xEjAQBgNVBAMMCSoubGRz
+Lm9yZzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANbvewZLWa9lRzq2
+Ozfuk8fKF+GXPGEo8NQk9qM/n7MBpEJQmPRfAHwU8fMney+7r773Vd2FlyFbUeBm
+cMIAR+r/UhI8Nzbm50XW2g4Q/rlZXMHxLKpHmv6/fotmjsgkK4zkKvsq4EHPKz2T
+EC+3s8IY40Hik5+eIqBoOxai3UQYjCb9HpDmWZSoLdtYYV60vHlsRmaw3aP0oFWf
+10BNjAtkEMccCImFnfVa7YtRxmKMd9dZSHggE6SkKcJdMbirW5KOhS+FVhlpkpbS
+eSGcaIYsSZ1skbsqKFR9cHC9E3vB/+dNwSpGaxtG9rWVB0cvG7nsHuAeTGRbFBki
+NBN9AiUCAwEAAaOCAeswggHnMB8GA1UdIwQYMBaAFFFo/5CvAgd1PMzZZWRiohK4
+WXI7MB0GA1UdDgQWBBQOSFWKutV0z2n+GyLS+aukFm/PQjAdBgNVHREEFjAUggkq
+Lmxkcy5vcmeCB2xkcy5vcmcwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsG
+AQUFBwMBBggrBgEFBQcDAjB1BgNVHR8EbjBsMDSgMqAwhi5odHRwOi8vY3JsMy5k
+aWdpY2VydC5jb20vc2hhMi1oYS1zZXJ2ZXItZzUuY3JsMDSgMqAwhi5odHRwOi8v
+Y3JsNC5kaWdpY2VydC5jb20vc2hhMi1oYS1zZXJ2ZXItZzUuY3JsMEwGA1UdIARF
+MEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2lj
+ZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMIGDBggrBgEFBQcBAQR3MHUwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBNBggrBgEFBQcwAoZBaHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMkhpZ2hBc3N1cmFuY2VT
+ZXJ2ZXJDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOCAQEAS3h/
+7jYiZk3B0J6veUtUT+ZDTui9WBLcfKQAK9P7/HnuzrDix9up7JXVF4r0hSx78zYr
+RXkwiKnWCPmiABJb6NzpARe3btTKsGPY89quKMOy+Z8y86hXEh0yNSpcT/mMFIe3
+SxIZEQiucfaVldEc/De+v5PulgWAzt4Bb0i+SM11VcoEhzXN5uAjEXYCezwbZnqT
+1mGwfZ0TQJtHTBB56LiQWw+hxmiqlEcsEvIdyHozI0qOMzWbOor5cmQgqk5JF6J1
+HX6E+M+9ZMSrLZcY7AWAuA4XpQfh26veST+QaHfpb3K8RApy3b2+0caSs3VltrRe
+r5huv4GuxJs5tXlc7w==
+-----END CERTIFICATE-----
+subject=/C=US/ST=Utah/L=Salt Lake City/O=Intellectual Reserve Inc./OU=Intellectual Reserve Inc./CN=*.lds.org
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Server Temp Key: DH, 1024 bits
+---
+SSL handshake has read 3306 bytes and written 495 bytes
+---
+New, TLSv1/SSLv3, Cipher is DHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : DHE-RSA-AES256-GCM-SHA384
+    Session-ID: E2D86472371DD856CBA0F89D9E6580DC0E2151248FCDCCC1B2C945D16EF5D0EF
+    Session-ID-ctx: 
+    Master-Key: 256B3BB046F12FC44DC8DCBB2CA2CEA6A63B56BB08F0616B1AE41636FF419AAE56B8E3504218262EEDB09725E4E500F7
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1520036376
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

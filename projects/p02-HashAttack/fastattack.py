@@ -24,7 +24,6 @@ verbose = False
 collision_plot = "./data/collision.png"
 pre_image_plot = "./data/pre_image.png"
 
-
 class WordGenerator(object):
     def __init__(self):
         self.alpha = "abcdefghijklmnopqrstuvwxyz"

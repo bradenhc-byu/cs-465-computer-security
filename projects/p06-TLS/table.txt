@@ -1,0 +1,24 @@
+
+
+
+SITE						KEY EXCHANGE METHOD						AUTHENTICATION		SYMMETRIC ENCRYPTION ALGORITHM
+
+lds.org						Diffie-Hellman							RSA					AES 256-bit in GCM mode
+
+instructure.com				Elliptic Curve Diffie-Hellman			RSA					AES 128-bit in GCM mode
+
+discover.com				Elliptic Curve Diffie-Hellman			RSA					AES 256-bit in GCM mode
+
+efirstbank.com				RSA										RSA					AES 256-bit in GCM mode
+
+mint.com					Elliptic Curve Diffie-Hellman			RSA					AES 128-bit in GCM mode
+
+facebook.com				Elliptic Curve Diffie-Hellman			ECDSA				AES 128-bit in GCM mode			
+
+learningsuite.byu.edu		Elliptic Curve Diffie-Hellman			RSA					AES 256-bit in GCM mode
+
+cs460.byu.edu				Elliptic Curve Diffie-Hellman			RSA					AES 128-bit in GCM mode
+
+gmail.com					Elliptic Curve Diffie-Hellman			RSA					AES 128-bit in GCM mode
+
+stackoverflow.com			Elliptic Curve Diffie-Hellman			RSA					AES 128-bit in GCM mode

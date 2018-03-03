@@ -1,0 +1,83 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=2324451/C=US/postalCode=92129/ST=California/L=San Diego/street=7535 Torrey Santa FE Rd/O=INTUIT INC./OU=Technology Operations/CN=answers.mint.com
+   i:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+ 1 s:/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+   i:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+ 2 s:/C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+ 3 s:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+   i:/C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHPzCCBiegAwIBAgIQctGuNxt6/gMdRTI6jONAEzANBgkqhkiG9w0BAQsFADB3
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxKDAmBgNVBAMTH1N5bWFudGVj
+IENsYXNzIDMgRVYgU1NMIENBIC0gRzMwHhcNMTcxMTE3MDAwMDAwWhcNMTkxMTE4
+MjM1OTU5WjCCARoxEzARBgsrBgEEAYI3PAIBAxMCVVMxGTAXBgsrBgEEAYI3PAIB
+AgwIRGVsYXdhcmUxHTAbBgNVBA8TFFByaXZhdGUgT3JnYW5pemF0aW9uMRAwDgYD
+VQQFEwcyMzI0NDUxMQswCQYDVQQGEwJVUzEOMAwGA1UEEQwFOTIxMjkxEzARBgNV
+BAgMCkNhbGlmb3JuaWExEjAQBgNVBAcMCVNhbiBEaWVnbzEgMB4GA1UECQwXNzUz
+NSBUb3JyZXkgU2FudGEgRkUgUmQxFDASBgNVBAoMC0lOVFVJVCBJTkMuMR4wHAYD
+VQQLDBVUZWNobm9sb2d5IE9wZXJhdGlvbnMxGTAXBgNVBAMMEGFuc3dlcnMubWlu
+dC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDM9RsLlbFdc5Mb
+BSdGzz5stePWzVu+k53tilZEnV5CAhwkWE+C8NqfdILsY0XZNJbfNyDBCzeQuuG3
+AvA2gtNeTIy1ZchUsNT58+V9juxtr65TvER2qzefVV7URZuCUN2FeidbrFaqbkKX
+m+phDFNTH2UlbgBnCG+biDOk9qdXNvJ0Aci4yjlYdE7hOMnUZ3clkE1L6Rm8aNYq
+95bPcgvZKxw4q0Ca5CpwTtW2Svx10Zc2EwD6kmRsWUa/Es68ojovK0A3e33+jPGE
+6JO1jcGsxgMSV1v6lNsrZEX08Oj5qkJ2Y3oSv0wznh2M4pRDPAH7QntDlXgJUSDF
+EKZPQyexAgMBAAGjggMgMIIDHDBHBgNVHREEQDA+gghtaW50LmNvbYIMd3d3Lm1p
+bnQuY29tghJzdGFnZS13d3cubWludC5jb22CEGFuc3dlcnMubWludC5jb20wCQYD
+VR0TBAIwADAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsG
+AQUFBwMCMG8GA1UdIARoMGYwWwYLYIZIAYb4RQEHFwYwTDAjBggrBgEFBQcCARYX
+aHR0cHM6Ly9kLnN5bWNiLmNvbS9jcHMwJQYIKwYBBQUHAgIwGQwXaHR0cHM6Ly9k
+LnN5bWNiLmNvbS9ycGEwBwYFZ4EMAQEwHwYDVR0jBBgwFoAUAVmr5906C1mmZGPW
+zyAHV9WR52owKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3NyLnN5bWNiLmNvbS9z
+ci5jcmwwVwYIKwYBBQUHAQEESzBJMB8GCCsGAQUFBzABhhNodHRwOi8vc3Iuc3lt
+Y2QuY29tMCYGCCsGAQUFBzAChhpodHRwOi8vc3Iuc3ltY2IuY29tL3NyLmNydDCC
+AX0GCisGAQQB1nkCBAIEggFtBIIBaQFnAHYA3esdK3oNT6Ygi4GtgWhwfi6OnQHV
+XIiNPRHEzbbsvswAAAFfzAsAdQAABAMARzBFAiAE2hF5wo2/fgJn2CI8x05DtVBV
+hT5IqvkPoBR1nkIeOgIhAKggjhfVmNzXblk2yb+HIr8Stvk7FiOsPXWobEyoxP1p
+AHUApLkJkLQYWBSHuxOizGdwCjw1mAT5G9+443fNDsgN3BAAAAFfzAsApwAABAMA
+RjBEAiAhl6Qk85CV9a7KZGb6wc54s2rt6zywJOGYSzxLRopacgIgSdb2q1PEpVqf
+oqFOHdY8OxzscPmUwiYKTyYjSrhyIU4AdgDuS723dc5guuFCaR+r4Z5mow9+X7By
+2IMAxHuJeqj9ywAAAV/MCwJpAAAEAwBHMEUCIQC+dxSBTX8BVxw1ogLiQA6zYaTA
+80GqNMjYGm2hFSN9CAIgA1kllry0iQrEQK6TER95WVrvjPBFjtjBLIsj/mqnUyQw
+DQYJKoZIhvcNAQELBQADggEBAJS7yqcmWvQP8J/yRQbRW+jWZBAgqJvGkhRdjThJ
+IKsS8BAtsq+4ncZzRZdJAeNxCkWsCAsTyzAUnScgDpsplzouIgOGrQvEd1pbJcoC
+IgNOJPmcD5uxx8QzhXXoj6PjzGbxnGtyxbvtjdRQHIcjUWCU9YbzFlvFXmEQ7yAi
+LSighgogRVHTSIrA3ZU9nJu3zV/04E4FoC0IMuovxwkIRvmgGHQM4DeXlPPYlJ7m
+tw42ngzD5ZVFzCpoW01sBwXBcQlmUYz2lpXZaKjvZD62JRcsbgOo/mU8/MVitdh7
+AJx+n23so/EJbg/VvGmBslAOpp9FksUql4is0zqPeRaPb1I=
+-----END CERTIFICATE-----
+subject=/jurisdictionC=US/jurisdictionST=Delaware/businessCategory=Private Organization/serialNumber=2324451/C=US/postalCode=92129/ST=California/L=San Diego/street=7535 Torrey Santa FE Rd/O=INTUIT INC./OU=Technology Operations/CN=answers.mint.com
+issuer=/C=US/O=Symantec Corporation/OU=Symantec Trust Network/CN=Symantec Class 3 EV SSL CA - G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 5450 bytes and written 431 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: F1E2F02AC7470CBCAD2ACC346ABD764FB2AA1236F29EE938A9C3520A01F56215
+    Session-ID-ctx: 
+    Master-Key: 6887EF350E01F02D3F80B3AE3206A120B5114FCDA7C2036CAAD927F124696D5CD30D6EAF92B04919A54E5F6906A7141E
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1520036384
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

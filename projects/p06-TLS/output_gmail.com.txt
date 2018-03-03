@@ -1,0 +1,82 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=California/L=Mountain View/O=Google Inc/CN=mail.google.com
+   i:/C=US/O=Google Trust Services/CN=Google Internet Authority G3
+ 1 s:/C=US/O=Google Trust Services/CN=Google Internet Authority G3
+   i:/OU=GlobalSign Root CA - R2/O=GlobalSign/CN=GlobalSign
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIEljCCA36gAwIBAgIIO2csCDKWqRgwDQYJKoZIhvcNAQELBQAwVDELMAkGA1UE
+BhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczElMCMGA1UEAxMc
+R29vZ2xlIEludGVybmV0IEF1dGhvcml0eSBHMzAeFw0xODAyMTMxMTE5NTdaFw0x
+ODA1MDgxMDQxMDBaMGkxCzAJBgNVBAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlh
+MRYwFAYDVQQHDA1Nb3VudGFpbiBWaWV3MRMwEQYDVQQKDApHb29nbGUgSW5jMRgw
+FgYDVQQDDA9tYWlsLmdvb2dsZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDLLnfyi+V6PsEGPcIxd90HrSYhV8sbSUqreGsPzHIeKMy5QsZg09ZF
+syodjddpL8YXlsN3hnWKrq5WKUfZ8+8qSUiaQMm8iHcAEXd75RDcEv/NuW65Zx1V
+7IZBRtvsfMSY8s1/1EmUdv2TfIbLuZu8HBEaaeeyoD6xXqkuyUTBc8oKkp+fSQhz
++20GW/y6Z80ngiDQsQCDR3zfyDOVIpRJSGnoKn8k12r4doZz7LcTKsf3eI5Npd1z
+6Ab7097zmXBIs3YD06pQaTYD452YXkW2OX2VuCU7SAIZ9rIhuNL4Hcn3GSi/u2B5
+nnSvl9U8PLEYabFGyFRl+j0X2SsvsBavAgMBAAGjggFVMIIBUTATBgNVHSUEDDAK
+BggrBgEFBQcDATAsBgNVHREEJTAjgg9tYWlsLmdvb2dsZS5jb22CEGluYm94Lmdv
+b2dsZS5jb20waAYIKwYBBQUHAQEEXDBaMC0GCCsGAQUFBzAChiFodHRwOi8vcGtp
+Lmdvb2cvZ3NyMi9HVFNHSUFHMy5jcnQwKQYIKwYBBQUHMAGGHWh0dHA6Ly9vY3Nw
+LnBraS5nb29nL0dUU0dJQUczMB0GA1UdDgQWBBQLfXyGh6ha2NkdWXOIcU5O+F+X
+DjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFHfCuFCaZ3Z2sS3ChtCDoH6mfrpL
+MCEGA1UdIAQaMBgwDAYKKwYBBAHWeQIFAzAIBgZngQwBAgIwMQYDVR0fBCowKDAm
+oCSgIoYgaHR0cDovL2NybC5wa2kuZ29vZy9HVFNHSUFHMy5jcmwwDQYJKoZIhvcN
+AQELBQADggEBAHNzOeU0X6llfjE0pj2LolfLUJeoHHSq8DsYySUtL2GEsk5IAEJm
+OsVvRW14zevX2bp109k1UZvoYtfx73UIJhCicEcglxGD/Aro7CEcWF3dIeULcNll
+kvMGnYUK4o7uFfKIgdkPC2SDJX+VbdqLzFszP6tOaAMCMkFYZ8uvUvcrtJjOit5H
+6sw7F5eIFLKYKg101M01ZgfB908aNfW+XbjzYKazNYS5VLX6uIm9AasLMqJ90fco
+2q3huLN5mTThe9Sq9V/QgYvNfLFo/C//Z6jp/6ao9WDYL5MvA2SxDZFBQnyWUgSD
+oBpUUJmPGEGx0c/b9wKQNUz5A8hbdH/f2CE=
+-----END CERTIFICATE-----
+subject=/C=US/ST=California/L=Mountain View/O=Google Inc/CN=mail.google.com
+issuer=/C=US/O=Google Trust Services/CN=Google Internet Authority G3
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3006 bytes and written 431 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BAD6E4763BAA8BAC2F12DA5DA41E00E9561B37C4F8E09E4124A8AE935ED8F62D
+    Session-ID-ctx: 
+    Master-Key: DED392376DCBCEEF616B1562B51EA5425A76A54BBDAD897DEB932314C459105AF00B10CC79A985745434E42E5B96C773
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 100800 (seconds)
+    TLS session ticket:
+    0000 - 00 78 16 5d 3f 2d 1e f8-6f 75 57 5d 2a 41 52 f1   .x.]?-..ouW]*AR.
+    0010 - 03 8b 03 12 bf f0 fc 9e-8a 36 44 cb 9c ce 32 17   .........6D...2.
+    0020 - 0b d4 80 2c ec cc 01 53-d1 8b e5 4b 3a b1 38 4a   ...,...S...K:.8J
+    0030 - 15 4a ba 3e e3 66 ee eb-c1 f1 51 d2 c2 9e cb 48   .J.>.f....Q....H
+    0040 - fb a9 f8 9a 66 f2 cb 5c-04 bb c0 70 69 a8 df 34   ....f..\...pi..4
+    0050 - 58 70 d5 ac 5b cc cb a7-03 79 9e 86 3a cb 77 53   Xp..[....y..:.wS
+    0060 - 55 c1 c1 44 c6 f1 ac dd-c6 54 97 90 6d 59 5b 86   U..D.....T..mY[.
+    0070 - e9 46 8b 51 54 8e 7f 3d-cc 18 02 4f 3b 44 f5 59   .F.QT..=...O;D.Y
+    0080 - e0 78 e5 cf ea b0 95 1b-a7 4a f5 63 14 5f 21 4c   .x.......J.c._!L
+    0090 - a9 9d bf 66 9e bb dc ef-9a 7a 5b 87 0a 87 2c 44   ...f.....z[...,D
+    00a0 - b1 bf b9 70 05 87 69 7b-3d cf c5 95 e4 2e 18 5e   ...p..i{=......^
+    00b0 - 5b 82 ca b9 95 1e 9e 90-5e 79 6e 88 ee 8b 74 4f   [.......^yn...tO
+    00c0 - a8 82 bd 84 b1 7f 68 d1-1f 7f 1a 0d b7 28 e3 55   ......h......(.U
+    00d0 - 38 bf 92 74 9d                                    8..t.
+
+    Start Time: 1520036392
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

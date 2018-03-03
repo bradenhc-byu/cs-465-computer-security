@@ -1,0 +1,92 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/C=US/ST=NY/L=New York/O=Stack Exchange, Inc./CN=*.stackexchange.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIHHjCCBgagAwIBAgIQDhG71w1UtxDQxvVAtrUspDANBgkqhkiG9w0BAQsFADBw
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS8wLQYDVQQDEyZEaWdpQ2VydCBTSEEyIEhpZ2ggQXNz
+dXJhbmNlIFNlcnZlciBDQTAeFw0xNjA1MjEwMDAwMDBaFw0xOTA4MTQxMjAwMDBa
+MGoxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJOWTERMA8GA1UEBxMITmV3IFlvcmsx
+HTAbBgNVBAoTFFN0YWNrIEV4Y2hhbmdlLCBJbmMuMRwwGgYDVQQDDBMqLnN0YWNr
+ZXhjaGFuZ2UuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr0YD
+zscT5i6T2FaRsTGNCiLB8OtPXu8N9iAyuaROh/nS0kRRsN8wUMk1TmgZhPuYM6oF
+S377V8W2LqhLBMrPXi7lnhvKt2DFWCyw38RrDbEsM5dzVGErmhux3F0QqcTI92zj
+VW61DmE7NSQLiR4yonVpTpdAaO4jSPJxn8d+4p1sIlU2JGSk8LZSWFqaROc7KtXt
+lWP4HahNRZtdwvL5dIEGGNWx+7B+XVAfY1ygc/UisldkA+a3D2+3WAtXgFZRZZ/1
+CWFjKWJNMAI6ZBAtlbgSNgRYxdcdleIhPLCzkzWysfltfiBmsmgz6VCoFR4KgJo8
+Gd3MeTWojBthM10SLwIDAQABo4IDuDCCA7QwHwYDVR0jBBgwFoAUUWj/kK8CB3U8
+zNllZGKiErhZcjswHQYDVR0OBBYEFFrBQmPCYhOznZSEqjIeF8tto4Z7MIIB6AYD
+VR0RBIIB3zCCAduCEyouc3RhY2tleGNoYW5nZS5jb22CEXN0YWNrb3ZlcmZsb3cu
+Y29tghMqLnN0YWNrb3ZlcmZsb3cuY29tgg1zdGFja2F1dGguY29tggtzc3RhdGlj
+Lm5ldIINKi5zc3RhdGljLm5ldIIPc2VydmVyZmF1bHQuY29tghEqLnNlcnZlcmZh
+dWx0LmNvbYINc3VwZXJ1c2VyLmNvbYIPKi5zdXBlcnVzZXIuY29tgg1zdGFja2Fw
+cHMuY29tghRvcGVuaWQuc3RhY2thdXRoLmNvbYIRc3RhY2tleGNoYW5nZS5jb22C
+GCoubWV0YS5zdGFja2V4Y2hhbmdlLmNvbYIWbWV0YS5zdGFja2V4Y2hhbmdlLmNv
+bYIQbWF0aG92ZXJmbG93Lm5ldIISKi5tYXRob3ZlcmZsb3cubmV0gg1hc2t1YnVu
+dHUuY29tgg8qLmFza3VidW50dS5jb22CEXN0YWNrc25pcHBldHMubmV0ghIqLmJs
+b2dvdmVyZmxvdy5jb22CEGJsb2dvdmVyZmxvdy5jb22CGCoubWV0YS5zdGFja292
+ZXJmbG93LmNvbYIVKi5zdGFja292ZXJmbG93LmVtYWlsghNzdGFja292ZXJmbG93
+LmVtYWlsMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYB
+BQUHAwIwdQYDVR0fBG4wbDA0oDKgMIYuaHR0cDovL2NybDMuZGlnaWNlcnQuY29t
+L3NoYTItaGEtc2VydmVyLWc1LmNybDA0oDKgMIYuaHR0cDovL2NybDQuZGlnaWNl
+cnQuY29tL3NoYTItaGEtc2VydmVyLWc1LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG
+/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BT
+MAgGBmeBDAECAjCBgwYIKwYBBQUHAQEEdzB1MCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5kaWdpY2VydC5jb20wTQYIKwYBBQUHMAKGQWh0dHA6Ly9jYWNlcnRzLmRp
+Z2ljZXJ0LmNvbS9EaWdpQ2VydFNIQTJIaWdoQXNzdXJhbmNlU2VydmVyQ0EuY3J0
+MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggEBAAzJAMGSdKoX1frdqNlN
+iXu8Gcbsm/DxWMXpcTXlZn8s+/qQQoc+/3o0CK3C8/j9n5DmsYa88P6Ntt5ysDs+
+b0ynXFva4CAEyKaoPM4SIpOjwfWBRSUOqAIkQO2/LhKBwT/EnpaIHIKGnI0UdXLQ
+oDfkMDg6mgJsEBsKdKF5EfEX7iU3NO5xVJPJE8/R0btLAdYwxB9S6fSpCXGe2HqQ
+D101O/7/4MWNdFSbfdDSFcn5oEm+idimrqiNrF5knmuJy4qPBkL7thNuGK6rvYCF
+ZJM03ZEZhkQmn2jG/7LgjfwZmvfcITeADCpylf88bL+lf+vxe6cCl9CyqWgBDpsI
+xpE=
+-----END CERTIFICATE-----
+subject=/C=US/ST=NY/L=New York/O=Stack Exchange, Inc./CN=*.stackexchange.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3688 bytes and written 431 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: E5382D97EBBF23AB88ED495B48C290DC0BA2595CA65797323E4D1909590F1F00
+    Session-ID-ctx: 
+    Master-Key: C079B4412574CC8779B9536A8E49D32F693398440521D9BFC91BD14509A0C2F40DF1DA4FD4133A42420B3CF1B3BFAE20
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - 75 a9 7b 26 90 14 95 e5-42 7d b1 17 ed cd 0a 54   u.{&....B}.....T
+    0010 - 22 9f 0d ad c0 2c 4b 75-53 46 5b 3c 57 aa df 74   "....,KuSF[<W..t
+    0020 - 7f 41 86 f3 68 74 f8 75-09 0a 05 84 e1 55 2f 45   .A..ht.u.....U/E
+    0030 - 3a f6 09 16 be 0f 54 25-98 16 c4 29 c8 4f 50 7c   :.....T%...).OP|
+    0040 - e5 47 b6 a5 38 ed e3 80-4f 0e 2e f7 06 d7 fd ee   .G..8...O.......
+    0050 - fb 52 bd ee 9b 1e 41 ad-98 1b 73 24 f0 9d 8d 11   .R....A...s$....
+    0060 - 98 78 fa 2f cc 50 48 a5-5e 34 81 b5 a9 09 fa 68   .x./.PH.^4.....h
+    0070 - c3 04 1f 3f 4d bd 79 62-7c 6f 18 53 c5 91 70 ad   ...?M.yb|o.S..p.
+    0080 - 95 c5 2f 27 15 94 d8 eb-e3 4b 88 0d 18 4a 7f 0c   ../'.....K...J..
+    0090 - 84 ab 45 c8 89 48 9a 4e-48 3e 43 31 6d 66 d0 5c   ..E..H.NH>C1mf.\
+
+    Start Time: 1520036394
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

@@ -1,0 +1,87 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/CN=cs360.byu.edu
+   i:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+ 1 s:/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+   i:/O=Digital Signature Trust Co./CN=DST Root CA X3
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIF3zCCBMegAwIBAgISAwqEBpTFX0dhZk/LcFggvJpSMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xODAyMTMwNjQ2MjJaFw0x
+ODA1MTQwNjQ2MjJaMBgxFjAUBgNVBAMTDWNzMzYwLmJ5dS5lZHUwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCiwcigef3KBI7cNqI10hpFgQYBHCRYR0cV
+mGFETRBlqHH8ANqIhpOM6g74j1pzUZ6bfIOo0cAZph5jlyTUe/ARPhZZv09qDnlu
+lf3j9n6t70up5jFnEqHGJ3ojz79ibiOpGi3wKe+uggSuPd6Pt2sAmqvwKjz7yEGb
+YhJFiFTZ+ajDeshB93MSLlZClI54RdeZEk487WZKc8fvJGavs1rgQ3Gm4Pykp72y
+mZcyB4mzDyX4Ts4ImLBMeHpmSvsM7Kv7CrGkqJ0h3Yap1/igiHeEhI68D4qLFYT9
+/M6CWlxprEMLXxQj/GW0LjtHLIg5N1brT4mzVguaX9ZSETwomZOpAgMBAAGjggLv
+MIIC6zAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFEWmnXsn8rU/QuPRWMwvfQHsyZAx
+MB8GA1UdIwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMw
+YTAuBggrBgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+ZzAvBggrBgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9y
+Zy8wgfkGA1UdEQSB8TCB7oISY2VkYXJoaWxsc2Jsb2cub3JnghFjaXRpemVuYnVk
+Z2V0Lm9yZ4INY3MzNjAuYnl1LmVkdYINY3M0NjAuYnl1LmVkdYINY3M2NjAuYnl1
+LmVkdYIWY3M2OTcuaW50ZXJuZXQuYnl1LmVkdYIMZmh0dy5ieXUuZWR1ghVpbWFt
+LmludGVybmV0LmJ5dS5lZHWCEGludGVybmV0LmJ5dS5lZHWCE2tpdGNoZW4uemFw
+cGFsYS5vcmeCC29zbC5ieXUuZWR1ghZzdGVhbS5pbnRlcm5ldC5ieXUuZWR1gg96
+YXBwYWxhLmJ5dS5lZHUwgf4GA1UdIASB9jCB8zAIBgZngQwBAgEwgeYGCysGAQQB
+gt8TAQEBMIHWMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9y
+ZzCBqwYIKwYBBQUHAgIwgZ4MgZtUaGlzIENlcnRpZmljYXRlIG1heSBvbmx5IGJl
+IHJlbGllZCB1cG9uIGJ5IFJlbHlpbmcgUGFydGllcyBhbmQgb25seSBpbiBhY2Nv
+cmRhbmNlIHdpdGggdGhlIENlcnRpZmljYXRlIFBvbGljeSBmb3VuZCBhdCBodHRw
+czovL2xldHNlbmNyeXB0Lm9yZy9yZXBvc2l0b3J5LzANBgkqhkiG9w0BAQsFAAOC
+AQEAD0blPCxJFCYlABIr1nhfsHzZlVX7LbFOM1JJij294kHvmbHfLiYDLGYLSSfm
+UHNafr6SD8AK6RdOoejJOBX4xr3wNu02ho4Et4ICLrlkPW7KvVhvdHwYBeKnVdPC
+J06uQg2I/ldMdyCxDhm9U2KoTF76vYcS8HULTQnktRKNnUfm5XPvwSv9rHa+24kV
+bLQL4PyY+VDxYCNzi2A/bptMQdlnYUI1UAvBiZtJko8BRmcJahKO7tmpYdNptj+6
+EsB4+3mmhPd/jq4jDfDNORo6sjSCabYXd2Pzt2CzVw5NwO8gGpiPC8MeWjf+mliP
+8YcXHfxW8uCfPUKNZdItrc2VWg==
+-----END CERTIFICATE-----
+subject=/CN=cs360.byu.edu
+issuer=/C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+---
+No client certificate CA names sent
+Peer signing digest: SHA512
+Server Temp Key: ECDH, P-256, 256 bits
+---
+SSL handshake has read 3375 bytes and written 431 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES128-GCM-SHA256
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES128-GCM-SHA256
+    Session-ID: BBEC4DB54CE3B71380BB0D84EC3898D0737D7ABF414AA4F646E0FE9DFA4E6BE2
+    Session-ID-ctx: 
+    Master-Key: D69EB371782591AA60DF20A0E841982D867D99C71D4F7FB62A9C19FFA507FA9FD7DDB79324F3A785CFD5B7FA7A387EA3
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 80 d8 b2 bd 2a c5 ec 4a-94 4c 81 2d 06 6e 54 3d   ....*..J.L.-.nT=
+    0010 - e3 32 74 de 35 25 cc 16-d5 cf 09 91 97 5e 7e ae   .2t.5%.......^~.
+    0020 - e4 47 a2 00 d3 dc 81 b3-b1 59 0e 20 b4 44 1f 1f   .G.......Y. .D..
+    0030 - 3e ee 85 ca 1d c4 28 ee-d4 58 b8 49 81 12 10 2c   >.....(..X.I...,
+    0040 - 47 b0 e1 69 94 c7 61 b7-ab cc cc c6 02 ba 02 93   G..i..a.........
+    0050 - 87 93 3c 7e e9 fb f3 37-ed 54 3d 09 f9 a3 a6 a2   ..<~...7.T=.....
+    0060 - 21 ba 2f fd 86 a3 7b 1e-0c b1 31 30 22 2b 02 be   !./...{...10"+..
+    0070 - 69 fc f7 ad f8 fd a4 51-3b 8f 6e 15 f7 cb e9 0c   i......Q;.n.....
+    0080 - 71 92 50 4e a0 39 fa 5a-77 97 8e 16 58 c9 f1 d9   q.PN.9.Zw...X...
+    0090 - 90 5c 11 5e 75 19 eb a7-e6 c2 fc 34 7e 90 e6 21   .\.^u......4~..!
+    00a0 - 9b e7 6d 29 ba fa 12 ca-0b 15 d7 f5 05 ca 65 af   ..m)..........e.
+    00b0 - 3b 35 f1 79 ea 7e a3 ed-68 f7 9e 2d 57 da c5 13   ;5.y.~..h..-W...
+
+    Start Time: 1520036390
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---

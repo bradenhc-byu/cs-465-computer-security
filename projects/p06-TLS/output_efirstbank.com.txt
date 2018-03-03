@@ -1,0 +1,83 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Colorado/serialNumber=19871405522/C=US/ST=Colorado/L=Lakewood/O=FirstBank Holding Company/OU=Web Operations/CN=www.efirstbank.com
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+ 1 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+ 2 s:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+   i:/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIH7TCCBtWgAwIBAgIQBKF954GyC7RW22IkcuDiCjANBgkqhkiG9w0BAQsFADB1
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTQwMgYDVQQDEytEaWdpQ2VydCBTSEEyIEV4dGVuZGVk
+IFZhbGlkYXRpb24gU2VydmVyIENBMB4XDTE3MTAxOTAwMDAwMFoXDTE5MTIyMzEy
+MDAwMFowgfIxHTAbBgNVBA8MFFByaXZhdGUgT3JnYW5pemF0aW9uMRMwEQYLKwYB
+BAGCNzwCAQMTAlVTMRkwFwYLKwYBBAGCNzwCAQITCENvbG9yYWRvMRQwEgYDVQQF
+EwsxOTg3MTQwNTUyMjELMAkGA1UEBhMCVVMxETAPBgNVBAgTCENvbG9yYWRvMREw
+DwYDVQQHEwhMYWtld29vZDEiMCAGA1UEChMZRmlyc3RCYW5rIEhvbGRpbmcgQ29t
+cGFueTEXMBUGA1UECxMOV2ViIE9wZXJhdGlvbnMxGzAZBgNVBAMTEnd3dy5lZmly
+c3RiYW5rLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALSGSyg/
+wM+MHQRI50vy0ChR6DAc2vWhN/m/1JOqOd9ps6qGOZDdPmP32nRNEvyfXPutnUoi
+MThb0HqDG9Kw0w5U99V+X+2cj2LH5eAg3MXI8RCyAlxI6xzQvP6gECagEXAK/kbP
+U7fIkhiQlH6HYTMoZUPYtYgv1jIPEjHr0kD3U6MNxDEBh8gqzM4Cy9FTbxYkoWdI
+Hl3hoDBCMg5okvodmAQbu/myvANhX7t6QGKLYgD3v+oWS8WbIF+Ou2f7bNLZRUIq
+DovRthJ0fsxcyNrtu+V6Uw79TDrbjwnBUcbxHnVVUTu0S6whE7JIkEpWQ6f/m9fv
+aV8uJGo9PWIOL/MCAwEAAaOCA/kwggP1MB8GA1UdIwQYMBaAFD3TUKXWoK3u80pg
+CmXTIdT4+NYPMB0GA1UdDgQWBBRJWrQoumkJDQ8KzW+s7MrXMWJT+TAtBgNVHREE
+JjAkghJ3d3cuZWZpcnN0YmFuay5jb22CDmVmaXJzdGJhbmsuY29tMA4GA1UdDwEB
+/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwdQYDVR0fBG4w
+bDA0oDKgMIYuaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NoYTItZXYtc2VydmVy
+LWcyLmNybDA0oDKgMIYuaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL3NoYTItZXYt
+c2VydmVyLWcyLmNybDBLBgNVHSAERDBCMDcGCWCGSAGG/WwCATAqMCgGCCsGAQUF
+BwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAcGBWeBDAEBMIGIBggr
+BgEFBQcBAQR8MHowJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNv
+bTBSBggrBgEFBQcwAoZGaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lD
+ZXJ0U0hBMkV4dGVuZGVkVmFsaWRhdGlvblNlcnZlckNBLmNydDAMBgNVHRMBAf8E
+AjAAMIIB9gYKKwYBBAHWeQIEAgSCAeYEggHiAeAAdgCkuQmQtBhYFIe7E6LMZ3AK
+PDWYBPkb37jjd80OyA3cEAAAAV811b5HAAAEAwBHMEUCIQCl62R1X0di8G+XBAYD
+OWJ25Oac/k9DMSbdC/iQ591KJQIgbd6FtV58pnCUnYwlPR072imHd/YTSojDJBRO
+9OR996YAdgBWFAaaL9fC7NP14b1Esj7HRna5vJkRXMDvlJhV1onQ3QAAAV811b8P
+AAAEAwBHMEUCID+OYGQ73r2eTsdUtj00Kv76bBTTimbHq+akLfc7BW+jAiEApovs
+CPNVu1y3BYU34E+fWjZ/JBtDay5MRLHoYHBZNIsAdQDuS723dc5guuFCaR+r4Z5m
+ow9+X7By2IMAxHuJeqj9ywAAAV811cGMAAAEAwBGMEQCIEB1GQW0LN76HYs+9atR
+imCB7nkfa5q5BrPyqqiHRhMzAiBxIsJQi+DCew4QPZqe5LwLmSMJ5N1WMTXA+iTb
+DFCyugB3ALvZ37wfinG1k5Qjl6qSe0c4V5UKq1LoGpCWZDaOHtGFAAABXzXVvwAA
+AAQDAEgwRgIhAKm5QiVNjgYCoz8kg9R4qRpWyUddEh9DWyfUItjeFCeaAiEAuTzV
+yrChref2phZLqdLAd2dJtjYMO0EYy0kv1TvdCRIwDQYJKoZIhvcNAQELBQADggEB
+AIjRFnLlKILv59IGaonL1y2+OF5nf/HYK8AHI3YqKffLoTZehooMc6h4e2ErobE6
+pmsGSCskKN7fz799tWAb/jScpHU9uVVwySlZqrqizhbSPK2LtQv3C2h96OPdTULK
+kPkAVwP+18vk56C6YYKCIKLkSYswcLlS5ubOac6Snr9i7aI/V8oKTMUJp0HkOlCM
+btDb2TvvsfZ+4CiEKmpjvWJz0v+9mMkGi+vsrc0ZowvSprf8V+4M2p7f1RCfuJGX
+/6Is+ifpUrTjnaPhiKNNoVOElGjr/eV6cAHKnKlNj4DKmji8ARR8VPJxF2/utKin
+7Z7w7/gjEEpvotuR1FJlVQU=
+-----END CERTIFICATE-----
+subject=/businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Colorado/serialNumber=19871405522/C=US/ST=Colorado/L=Lakewood/O=FirstBank Holding Company/OU=Web Operations/CN=www.efirstbank.com
+issuer=/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 Extended Validation Server CA
+---
+No client certificate CA names sent
+---
+SSL handshake has read 4379 bytes and written 623 bytes
+---
+New, TLSv1/SSLv3, Cipher is AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : AES256-GCM-SHA384
+    Session-ID: 13C210396A620075FFC29A3077DFA9C9EE873091D374B89378C5CDE963F0DF61
+    Session-ID-ctx: 
+    Master-Key: 9FF45F3CA0C3B15DEF2904ACB63EA91166139811F7E6AEF5CCEF0949E30FBD5EB7D6A5379F2EE85874C026ADFDB55C4F
+    Key-Arg   : None
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1520036382
+    Timeout   : 300 (sec)
+    Verify return code: 0 (ok)
+---
