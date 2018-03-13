@@ -1,0 +1,4 @@
+alice:x:1760:1000:User information here:/home/alice:/bin/bash
+bob:x:1760:1000:User information here:/home/bob:/bin/bash
+eve:x:1760:1000:User information here:/home/eve:/bin/bash
+charlie:x:1760:1000:User information here:/home/charlie:/bin/bash
