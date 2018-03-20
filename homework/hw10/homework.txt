@@ -1,0 +1,72 @@
+====================================================================================================
+HOMEWORK 10
+BYU CS 465 - Computer Security
+
+Braden Hitchcock
+March 20, 2018
+====================================================================================================
+
+Stack Address   Value           Interpreted     Label
+
+0xffffcc2c      0x00007530      30000           local variable 'cougars' in senior(a,b) function
+0xffffcc30      0xffffcc68      ebp             frame pointer
+0xffffcc34      0x565555ca      address         return address for senior(a,b) function
+0xffffcc38      0x000007dc      2012            'a' argument in senior(a,b) function
+0xffffcc3c      0x00000002      2               'b' argument in senior(a,b) function
+0xffffcc40:     0xffffcc58
+0xffffcc44      0xf7f3cba2
+0xffffcc48      0x00000009                      
+0xffffcc4c      0xffffcc8a
+0xffffcc50:     0x6f63cc00      string          'co'
+0xffffcc54      0x72616775      string          'ugar'
+0xffffcc58      0x00000073      string          's'
+0xffffcc5c      0x5d163700
+0xffffcc60:     0xf7fd51a0
+0xffffcc64      0xf7ffdc10
+0xffffcc68      0xffffcc98      ebp             frame pointer
+0xffffcc6c      0x56555611      address         return address after junior() function
+0xffffcc70:     0x000007dc      2012            'a' argument for junior(a,b) function
+0xffffcc74      0xffffcc8a      pointer         'b' argument for junior(a,b) function
+0xffffcc78      0xf7ffca88
+0xffffcc7c      0x565555ec
+0xffffcc80:     0xffffccba
+0xffffcc84      0xf7ffca84
+0xffffcc88      0x0008ca88      8               local variable 'tiny' in sophomore()
+0xffffcc8c      0x5d163700
+0xffffcc90:     0xf7ffcc60
+0xffffcc94      0xffffdf8b
+0xffffcc98      0xffffcce8      ebp             frame pointer
+0xffffcc9c      0x5655568e      address         return address after call to sophomore()
+0xffffcca0:     0x00000025      37              'a' argument for sophomore(a,b) 
+0xffffcca4      0x000007dc      2012            'b' argument for sophomore(a,b)
+0xffffcca8      0x00c30000
+0xffffccac      0x56555633
+0xffffccb0:     0xf7ffdde0
+0xffffccb4      0xffffcd00
+0xffffccb8      0x00000000                      Below is the local variable char array housing[30]
+0xffffccbc      0x65483700      string          'He'
+0xffffccc0:     0x616d616c      string          'lama'
+0xffffccc4      0x6148206e      string          'n Ha'
+0xffffccc8      0x00736c6c      string          'lls'
+0xffffcccc      0x00000000      empty
+0xffffccd0:     0x00000000      empty
+0xffffccd4      0x00000000      empty
+0xffffccd8      0x00000000      empty
+0xffffccdc      0x5d163700
+0xffffcce0:     0xf7f96000
+0xffffcce4      0xffffcdc4
+0xffffcce8      0xffffcd18      ebp             frame pointer
+0xffffccec      0x565556e8      address         return address after call to freshman()
+0xffffccf0:     0x0000000c      12              'month' argument for freshman(month, day, year)
+0xffffccf4      0x00000019      25              'day' argument for freshman(month, day, year)
+0xffffccf8      0x000007dc      2012            'year' argument for freshman(month, day, year)
+0xffffccfc      0x565556bc               
+0xffffcd00:     0x000007dc      2012            local variable 'year' in main()
+0xffffcd04      0x0000000c      12              local variable 'month' in main()
+0xffffcd08      0x00000019      25              local variable 'day' in main()
+0xffffcd0c      0x56555721
+0xffffcd10:     0xffffcd30
+0xffffcd14      0x00000000
+0xffffcd18      0x00000000      0               local variable 'result' in main()
+0xffffcd1c      0xf7ddf986
+0xffffcd20:     0x00000001
